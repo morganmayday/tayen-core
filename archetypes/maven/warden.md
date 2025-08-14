@@ -9,7 +9,7 @@ The warden's key ability is Intuition. Their primary skills are Recall Occult Lo
 | 1 | Cunning Lore, Intuit |
 | 2 | tbd |
 | 3 | tbd |
-| 4 | tbd |
+| 4 | Call a Conspirator |
 | 5 | tbd |
 | 6 | tbd |
 | 7 | tbd |
@@ -20,3 +20,8 @@ A first-level warden that makes any Recall Lore check to _recall_ lore about a t
 
 #### Intuit
 A first-level warden gets a +1 grit bonus on all Recall Lore checks to _intuit information_ per Grit they're missing.
+
+#### Call a Conspirator
+A fourth-level warden, in a ritual that takes 1 hour and 50ma of mystic reagents, can call upon one of the jasilon of knowledge and ask them three questions, which the jasilon must answer truthfully. The entire conversation from start to finish is permanently embedded in the warden’s memory. However, most jasilon resent being bound this way, and if the warden does not offer some form of payment for services rendered, may omit certain information or reveal an unwelcome truth.
+
+A warden will call the same jasilon every time they use this feature, unless they research and call a different one. Maintaining a working relationship with their jasilon will likely make life easier for them. 
