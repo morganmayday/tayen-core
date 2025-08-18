@@ -19,3 +19,7 @@ A die that is _cashed in_ has a flat effect that requires the die to be spent as
 
 #### Roll
 A die that is _rolled_ has a variable effect based on the result after the roll. Most of the time, a rolled die is spent when it's rolled, but there are some exceptions, like the 2d8 you use for skill rolls. A die that's ticked down or up and rolled is capped at the previous value--if a d6 was ticked down to 4, and you rolled a 5 or 6 on it, that would be considered a 4.
+
+### Not Enough & Digital Dice
+
+While Tayen expects you to have a certain number of physical dice, sometimes that isn't reasonable. If you have one of each, or access to a digital dice roller, you can use a spreadsheet, document, or pen and paper to track your dice numbers.
