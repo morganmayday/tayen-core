@@ -12,7 +12,7 @@ Tayen expects each player to have at _least_ the following:
 These dice are used in three primary ways. 
 
 #### Countdown
-A die that is _ticked down_ or _ticked up_ isn't rollable. Stress Dice and Grit Dice are the primary examples: you lose Grit, and gain Stress. If you lose all of your Grit or overflow your Stress, bad things happen.
+A die that is _ticked down_ or _ticked up_ is often not used in other ways. Stress Dice and Grit Dice are the primary examples: you lose Grit, and gain Stress. If you lose all of your Grit or overflow your Stress, bad things happen.
 
 #### Cash In
 A die that is _cashed in_ has a flat effect that requires the die to be spent as a resource. Sometimes, the effect will be stronger based on the die's value, but this is the exception, not the rule. You can cash in a die that you've ticked down or up.
