@@ -6,7 +6,7 @@ The warden's key ability is Intuition. Their primary skills are Recall Occult Lo
 
 | Level | Abilities |
 | ----- | --------- |
-| 1 | Cunning Lore, Intuit |
+| 1 | Cunning Lore, Hold Shut the Gate, Intuit |
 | 2 | tbd |
 | 3 | tbd |
 | 4 | Call a Conspirator |
@@ -17,6 +17,13 @@ The warden's key ability is Intuition. Their primary skills are Recall Occult Lo
 
 #### Cunning Lore
 A first-level warden that makes any Recall Lore check to _recall_ lore about a target can spend a Cunning Die to _recall_ one additional piece of lore, regardless of whether they succeed or fail on the check.
+
+#### Hold Shut the Gate
+A first-level warden can attempt to _forbid_ creatures from crossing thresholds willingly.
+
+The warden begins a call-and-response with a creature as a major action, setting aside a Cunning Die. They must tell the creature a new reason it cannot cross the threshold each turn, then tick down their Cunning Die. The creature cannot cross the threshold willingly while the die remains. 
+
+A creature can still attempt to affect the warden, force them to stop speaking, or similar, but the warden receives a bonus on all instigated contests equal to the Cunning Die's number.
 
 #### Intuit
 A first-level warden gets a +1 grit bonus on all Recall Lore checks to _intuit information_ per Grit they're missing.
