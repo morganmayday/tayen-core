@@ -21,7 +21,7 @@ A first-level warden that makes any Recall Lore check to _recall_ lore about a t
 #### Hold Shut the Gate
 A first-level warden can attempt to _forbid_ creatures from crossing thresholds willingly.
 
-The warden begins a call-and-response with a creature as a major action, setting aside a Cunning Die. They must tell the creature a new reason it cannot cross the threshold each turn, then tick down their Cunning Die. The creature cannot cross the threshold willingly while the die remains. 
+The warden begins a call-and-response with a creature as a major action, setting aside a Cunning Die. They must tell the creature a new reason it cannot cross the threshold each turn, then tick down their Cunning Die if the creature responds with a counter-reason. The creature cannot cross the threshold willingly while the die remains. 
 
 A creature can still attempt to affect the warden, force them to stop speaking, or similar, but the warden receives a bonus on all instigated contests equal to the Cunning Die's number.
 
