@@ -8,7 +8,7 @@
 ### Dexterity Skills
 -- Strike First
 
--- Use Your Hands
+-- Be Precise
 
 -- Evade
 
