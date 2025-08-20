@@ -22,7 +22,7 @@
 ### Knowledge Skills
 -- Recall Lore
 
--- Improvise
+-- Innovate
 
 -- Research
 
