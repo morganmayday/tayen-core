@@ -24,7 +24,7 @@
 
 -- Improvise
 
--- 
+-- Research
 
 ### Charisma Skills
 -- Manipulate
