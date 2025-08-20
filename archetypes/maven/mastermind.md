@@ -2,15 +2,36 @@
 
 > fluff text here
 
-The mastermind's key ability is Knowledge. Their primary skills are Manipulate and Read Someone, and they are trained in tbd
+The mastermind's key ability is Knowledge. Their primary skills are Manipulate and Read Someone, and they are trained in Ear to the Ground and Command.
 
 | Level | Abilities |
 | ----- | --------- |
-| 1 | tbd |
-| 2 | tbd |
+| 1 | Cunning Insight, Aid Allies |
+| 2 | Backup Plan |
 | 3 | tbd |
 | 4 | tbd |
 | 5 | tbd |
 | 6 | tbd |
 | 7 | tbd |
 | 8 | tbd |
+
+#### Cunning Insight
+A first-level mastermind that _reads intent_ can spend a Cunning Die to ask an additional question, either from the stock list or the following below questions.
+
+-- What would I have to offer them to do what I want?
+
+-- How strong are their convictions?
+
+> note flag on "how strong"
+
+#### Aid Allies
+A first-level mastermind can help their allies succeed more effectively. They can use Read Someone to _help_ in skills they aren't trained in; since Read Someone is a primary skill for them, they will always be able to _help._
+
+#### Backup Plan
+A second-level mastermind begins to think about contingencies. When shit hits the fan, they can roll Ear to the Ground, with a +1 grit bonus for each Grit they're missing.
+
+On a 12 or higher, the mastermind tells the Spinner about their contingency plan, and the Spinner tells them what's different here that they didn't forsee.
+
+On a 15 or higher, the mastermind tells the Spinner about their contingency plan, and the Spinner tells them what they could change to be more likely to make it out in one piece. This doesn't guarantee success.
+
+On an 18 or higher, the mastermind tells the Spinner about their contingency plan, and the Spinner tells them something about the situation that will let them pull it off. This doesn't guarantee success.
