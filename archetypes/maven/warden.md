@@ -8,7 +8,7 @@ The warden's key ability is Intuition. Their primary skills are Recall Occult Lo
 | ----- | --------- |
 | 1 | Cunning Lore, Hold Shut the Gate |
 | 2 | Intuit |
-| 3 | tbd |
+| 3 | Dream Step, Go Between |
 | 4 | Call a Conspirator |
 | 5 | tbd |
 | 6 | tbd |
@@ -27,6 +27,20 @@ A creature can still attempt to affect the warden, force them to stop speaking, 
 
 #### Intuit
 A second-level warden gets a +1 grit bonus on all Recall Lore checks to _intuit information_ per Grit they're missing.
+
+#### Dream Step
+A third-level warden can, by concentrating for one minute, locate the nearest dreamcrossing by direction and distance, and can ask one of the following questions. They can hold their question until they attempt to activate the dreamcrossing.
+
+-- How do I activate the dreamcrossing?
+
+-- What can I expect on the other side?
+
+-- Where does it ultimately lead?
+
+#### Go Between
+A third-level warden has a measure of arcanopolitical protection. While they may not be a member of an organization, they give off a _vibe,_ for lack of a better term--anyone two or more levels below them will not fuck with them, as the otherworldly forces they have touched have touched them back. They also get a +2 presence bonus to Command. 
+
+Otherworldly creatures will also avoid harming a warden, unless they're certain they can get away with it.
 
 #### Call a Conspirator
 A fourth-level warden, in a ritual that takes 1 hour and 50ma of mystic reagents, can call upon one of the jasilon of knowledge and ask them three questions, which the jasilon must answer truthfully. The entire conversation from start to finish is permanently embedded in the warden’s memory. However, most jasilon resent being bound this way, and if the warden does not offer some form of payment for services rendered, may omit certain information or reveal an unwelcome truth.
