@@ -8,7 +8,7 @@ The mastermind's key ability is Knowledge. Their primary skills are Manipulate a
 | ----- | --------- |
 | 1 | Cunning Insight, Aid Allies |
 | 2 | Backup Plan |
-| 3 | tbd |
+| 3 | Plot Ahead |
 | 4 | tbd |
 | 5 | tbd |
 | 6 | tbd |
@@ -35,3 +35,16 @@ On a 12 or higher, the mastermind tells the Spinner about their contingency plan
 On a 15 or higher, the mastermind tells the Spinner about their contingency plan, and the Spinner tells them what they could change to be more likely to make it out in one piece. This doesn't guarantee success.
 
 On an 18 or higher, the mastermind tells the Spinner about their contingency plan, and the Spinner tells them something about the situation that will let them pull it off. This doesn't guarantee success.
+
+#### Plot Ahead
+A third-level mastermind can't see the future, but that doesn't mean they don't try. At the start of any conflict, they can list off the participants they know about, then ask the Spinner two of the following questions.
+
+-- Are there any players I haven't noticed in this conflict?
+
+-- Which player is most dangerous to me personally in this conflict?
+
+-- Which player is most dangerous to my goals in this conflict?
+
+-- What is this player going to try to do in this conflict?
+
+-- If I [engage in/disengage from] this conflict, what would the immediate effects of that be?
