@@ -2,14 +2,14 @@
 
 > fluff text here
 
-The mastermind's key ability is Knowledge. Their primary skills are Manipulate and Read Someone, and they are trained in Ear to the Ground and one other Recall Lore option.
+The mastermind's key ability is Knowledge. Their primary skills are Manipulate and Read Someone, and they are trained in tbd
 
 | Level | Abilities |
 | ----- | --------- |
-| 1 | Cunning Lore, Hold Shut the Gate |
-| 2 | Intuit |
-| 3 | Dream Step, Go Between |
-| 4 | Call a Conspirator |
+| 1 | tbd |
+| 2 | tbd |
+| 3 | tbd |
+| 4 | tbd |
 | 5 | tbd |
 | 6 | tbd |
 | 7 | tbd |
