@@ -16,4 +16,4 @@ The sharp's key ability is Knowledge. Their primary skills are Finagle and Be Pr
 | 8 | tbd |
 
 #### Cunning Improvisation
-A first-level sharp that rolls _any_ skill check can spend a Cunning Die to apply their Finagle bonus to it, instead of their usual bonus. They can do this after they roll, but not after the Spinner tells them the result--they can't know whether they succeed or fail.
+A first-level sharp that rolls _any_ skill check can spend a Cunning Die to apply their Finagle bonus to it, instead of their usual bonus. They can only do this before they roll.
