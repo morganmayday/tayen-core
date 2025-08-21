@@ -22,7 +22,7 @@
 ### Knowledge Skills
 -- Recall Lore
 
--- Innovate
+-- Problemancy
 
 -- Research
 
