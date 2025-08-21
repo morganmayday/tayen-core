@@ -2,7 +2,7 @@
 
 > fluff text here
 
-The sharp's key ability is Knowledge. Their primary skills are [innovate??] and Be Precise, and they are trained in Recall Arcane Lore and Research.
+The sharp's key ability is Knowledge. Their primary skills are Problemancy and Be Precise, and they are trained in Recall Arcane Lore and Research.
 
 | Level | Abilities |
 | ----- | --------- |
