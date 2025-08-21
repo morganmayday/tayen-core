@@ -22,7 +22,7 @@
 ### Knowledge Skills
 -- Recall Lore
 
--- Problemancy
+-- Finagle
 
 -- Research
 
