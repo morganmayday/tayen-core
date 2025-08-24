@@ -1,4 +1,4 @@
-### Build Skills
+### Build Spells
 -- Hit Hard
 
 -- Move 
