@@ -1,6 +1,3 @@
-### Build Spells
--- Hit Hard
-
 __Obliterate (Hit Hard)__
 
 Major action, touch, vs Evade, 4 spin
@@ -13,6 +10,9 @@ III: Can change type as desired. Base dice cap at 9d6+9 total.
 
 IV: Extra spin can be spent, 3 to an additional +2 on the hit check. Caps at +8.
 
+__Travel (Move)__
+
+Minor action, self, 4 spin
 -- Move 
 
 -- Endure
