@@ -23,20 +23,28 @@ III: Teleport yourself to any place you know of. Can link hands with up to 7 oth
 IV: Rip open a gate for the next minute to a place you have a linked item for. The gate is 15ftx15ft, two-way, and anyone can pass through it. 1 minute cast time. 18 spin, concentrate. Can close at-will. If something is within the gate when it closes, they are shunted to a side chosen at random.
 
 -- Endure
+- Simplest option is some kind of shield/dr
+- 
 
 ### Dexterity Skills
 -- Strike First
+- Lower damage, maybe minor action, maybe higher tiers have some sort of debuffs on-hit?
 
 -- Be Precise
+- Some sort of binding/slowing
 
 -- Evade
+- Get much better at dodging
 
 ### Intuition Skills
 -- Ear to the Ground
+- Maybe some sort of city sense/"talk to vermin and get the scoop", at higher tiers fully just connecting to the dream of the city and asking it shit
 
 -- Read Someone
+- Some sort of predictive model in your mind of social combat?
 
 -- Track Down
+- Scry!
 
 ### Knowledge Skills
 -- Recall Lore
