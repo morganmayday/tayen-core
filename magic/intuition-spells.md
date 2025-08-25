@@ -5,5 +5,5 @@
 -- Read Someone
 - Find weaknesses in opponents, especially in social settings. Single target, instead of Evade's more general dodge
 
--- Track Down
-- Scry!
+__Scry (Track Down)__
+TBD
