@@ -2,7 +2,7 @@
 
 > fluff text here
 
-The tactician's key ability is Intuition. Their primary skills are tbd, and they are trained in tbd
+The tactician's key ability is Intuition. Their primary skills are Command and Read Someone, and they are trained in Recall Historical Lore and Hit Hard.
 
 | Level | Abilities |
 | ----- | --------- |
