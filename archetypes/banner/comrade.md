@@ -2,7 +2,7 @@
 
 > fluff text here
 
-The comrade's key ability is Charisma. Their primary skills are tbd, and they are trained in tbd
+The comrade's key ability is Charisma. Their primary skills are Read Someone and Ear to the Ground, and they are trained in Exert Will and Endure.
 
 | Level | Abilities |
 | ----- | --------- |
