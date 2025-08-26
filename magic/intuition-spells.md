@@ -1,4 +1,5 @@
 __Augury (Ear to the Ground)__
+
 1 minute, self, instant, N/A, 6 spin
 
 I: You may ask the Spinner one of the following questions.
@@ -7,6 +8,7 @@ tbd
 
 -- Read Someone
 - Find weaknesses in opponents, especially in social settings. Single target, instead of Evade's more general dodge
+- morgan note: not Detect Thoughts, but perhaps like. an impulse foresight
 
 __Scry (Track Down)__
 
