@@ -10,9 +10,10 @@ III: 1d6 piercing damage, 30ft-90ft range. Ignores partial cover. Apply [statuse
 
 IV: 1d6 piercing damage, 40ft-120ft range. Ignores cover. Apply [statuseffect tbd].
 
--- Be Precise
-- Buff to dexterity checks for the duration, used for crafting (fabricate) or combat
+__Steady Yourself (Be Precise)__
 
--- Evade
+- Buff to dexterity checks for the duration?
+
+__Evade?__
 - Get much better at dodging
 - useful also in social combat, the defensive option to read someone's offense
