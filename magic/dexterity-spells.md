@@ -10,9 +10,10 @@ III: 1d6 piercing damage, 30ft-90ft range. Ignores partial cover. Apply [statuse
 
 IV: 1d6 piercing damage, 40ft-120ft range. Ignores cover. Apply [statuseffect tbd].
 
-__Steady Yourself (Be Precise)__
+__Be Precise?__
 
 - Buff to dexterity checks for the duration?
+- morgan note: this would be the perfect place for any like Arcane Hand thingies
 
 __Evade?__
 - Get much better at dodging
