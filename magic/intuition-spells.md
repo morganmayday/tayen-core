@@ -1,6 +1,9 @@
--- Ear to the Ground
-- Maybe some sort of city sense/"talk to vermin and get the scoop", at higher tiers fully just connecting to the dream of the area and asking it shit
-- Divination also works
+__Augury (Ear to the Ground)__
+1 minute, self, instant, N/A, 6 spin
+
+I: You may ask the Spinner one of the following questions.
+
+tbd
 
 -- Read Someone
 - Find weaknesses in opponents, especially in social settings. Single target, instead of Evade's more general dodge
@@ -15,4 +18,4 @@ II: As I, but you don't need a physical piece of them, the range is extended to 
 
 III: As II, but the range is unlimited within the same dream as them, and if they aren't within the same dream as you, you learn where the nearest dreamcrossing to get you closer to them is.
 
-IV: As III, but the range is unlimited, can cross intersominal boundaries, and if they lose the contest, you can expend 2 spin to get a glimpse again on your next turn, as many times as you'd like, no contest.
+IV: As III, but the range is unlimited, can cross intersomnial boundaries, and if they lose the contest, you can expend 2 spin to get a glimpse again on your next turn, as many times as you'd like, no contest.
