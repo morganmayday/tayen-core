@@ -7,3 +7,6 @@
 
 __Scry (Track Down)__
 
+1 minute, variable, variable, vs Exert Will, 8 spin
+
+I: Target someone.
