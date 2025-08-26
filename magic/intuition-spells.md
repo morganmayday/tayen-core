@@ -6,4 +6,4 @@
 - Find weaknesses in opponents, especially in social settings. Single target, instead of Evade's more general dodge
 
 __Scry (Track Down)__
-TBD
+
