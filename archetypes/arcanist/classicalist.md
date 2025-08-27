@@ -2,7 +2,7 @@
 
 > fluff text here
 
-The classicalist's key ability is Knowledge. Their primary skills are tbd and they are trained in tbd
+The classicalist's key ability is Knowledge. Their primary skills are Recall Arcane Lore and tbd and they are trained in tbd
 
 | Level | Abilities |
 | ----- | --------- |
