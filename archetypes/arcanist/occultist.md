@@ -2,7 +2,7 @@
 
 > fluff text here
 
-The occultist's key ability is Knowledge. Their primary skills are tbd and they are trained in tbd
+The occultist's key ability is Knowledge. Their primary skills are Recall Occult Lore and tbd and they are trained in tbd
 
 | Level | Abilities |
 | ----- | --------- |
