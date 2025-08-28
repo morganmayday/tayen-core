@@ -8,6 +8,8 @@ A Maven of third level or higher is locally acclaimed as an expert in their fiel
 
 The three Maven archetypes are [Mastermind](https://github.com/morganmayday/tayen-core/blob/main/archetypes/maven/mastermind.md), [Sharp](https://github.com/morganmayday/tayen-core/blob/main/archetypes/maven/sharp.md), and [Warden](https://github.com/morganmayday/tayen-core/blob/main/archetypes/maven/warden.md).
 
+> morgan note: below is tbd
+
 | Level | Abilities |
 | ----- | --------- |
 | 2 | Adapt |
