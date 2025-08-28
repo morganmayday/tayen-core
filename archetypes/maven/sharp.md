@@ -6,10 +6,10 @@ The sharp's key ability is Knowledge. Their primary skills are Finagle and Be Pr
 
 | Level | Abilities |
 | ----- | --------- |
-| 1 | Cunning Improvisation, tbd |
+| 1 | Cunning Improvisation, Mix It Up |
 | 2 | tbd |
 | 3 | tbd |
-| 4 | tbd|
+| 4 | tbd |
 | 5 | tbd |
 | 6 | tbd |
 | 7 | tbd |
@@ -17,6 +17,11 @@ The sharp's key ability is Knowledge. Their primary skills are Finagle and Be Pr
 
 #### Cunning Improvisation
 A first-level sharp that rolls _any_ skill check can spend a Cunning Die to apply their Finagle bonus to it, instead of their usual bonus. They can only do this before they roll.
+
+#### Mix It Up
+A first-level sharp does not have access to spin dice, but can still cast spells. They choose two skills they're trained in, as well as Finagle, to have access to spells from.
+
+Since they don't have access to spin dice, casting any spell will always be Stressful for them. However, instead of converting half the
 
 Design Notes
 
