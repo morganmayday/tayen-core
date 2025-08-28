@@ -12,9 +12,9 @@ The three Maven archetypes are [Mastermind](https://github.com/morganmayday/taye
 
 | Level | Abilities |
 | ----- | --------- |
-| 2 | Adapt |
+| 1 | Adapt |
 | 5 | tbd |
 | 8 | tbd |
 
 #### Adapt
-A second-level maven that fails a check can cash in a Cunning Die, to allow them to spend an ability that isn't linked to the check to reroll.
+A first-level maven that fails a check can cash in a Cunning Die, to allow them to spend an ability that isn't linked to the check to reroll.
