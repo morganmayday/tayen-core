@@ -21,7 +21,7 @@ A first-level sharp that rolls _any_ skill check can spend a Cunning Die to appl
 #### Mix It Up
 A first-level sharp does not have access to spin dice, but can still cast spells. They choose two skills they're trained in, as well as Finagle, to have access to spells from.
 
-Since they don't have access to spin dice, casting any spell will always be Stressful for them. However, instead of converting half the
+Since they don't have access to spin dice, casting any spell will always be Stressful for them.
 
 Design Notes
 
