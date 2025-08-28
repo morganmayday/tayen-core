@@ -14,6 +14,7 @@ __Be Precise?__
 
 - Buff to dexterity checks for the duration?
 - morgan note: this would be the perfect place for any like Arcane Hand thingies
+- luke note: tbh this feels like drone-strike and telepathy stuff?? like in the form of you shoot something and you can a) make it homing or b) manually control it
 
 __Evade?__
 - Get much better at dodging
