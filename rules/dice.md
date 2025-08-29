@@ -7,7 +7,7 @@ Tayen expects each player to have at _least_ the following:
 
 -- 3d6 more, for Banners and Mavens, or 4d6 more, for Arcanists, to track special resources at 1st level. More dice are required at higher levels.
 
--- A Stress Die (d10 for Arcanist, d8 for Banner, d6 for Maven) and a Grit Die (d6 for Arcanist, d10 for Banner, d8 for Maven).
+-- A Stress Die (d10 for Arcanist, d8 for Banner, d8 for Maven) and a Grit Die (d6 for Arcanist, d10 for Banner, d8 for Maven).
 
 These dice are used in three primary ways. 
 
