@@ -19,7 +19,9 @@ The taskmage's key ability is Knowledge. Their primary skills are Exert Will and
 A first-level taskmage that enters a conflict can immediately ask the Spinner one of the following questions, and spend 3 spin up to twice to ask additional questions.
 
 -- What is the most dangerous threat here?
+
 -- What is the most immediate threat here?
+
 -- How could I most efficiently make the situation worse for me and my allies?
 
 ### Practical Dispel
