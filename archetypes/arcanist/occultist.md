@@ -6,7 +6,7 @@ The occultist's key ability is Knowledge. Their primary skills are Recall Occult
 
 | Level | Abilities |
 | ----- | --------- |
-| 1 | tbd |
+| 1 | Occult Readings |
 | 2 | tbd |
 | 3 | tbd |
 | 4 | tbd |
@@ -15,3 +15,9 @@ The occultist's key ability is Knowledge. Their primary skills are Recall Occult
 | 7 | tbd |
 | 8 | tbd |
 
+### Occult Readings
+A first-level occultist, when they first encounter a magical or otherwise supernatural phenomenon, rolls to _recall occult lore_ about it. They can ask an additional question when they do this, even if they fail the check.
+
+Additionally, an occultist who _recalls occult lore_ can also choose to ask the following free question. Doing so will not necessarily have positive effects, but it may make interesting things happen.
+
+-- When I have seen this in nightmares, what were those nightmares like?
