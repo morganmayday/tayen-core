@@ -2,7 +2,7 @@
 
 > fluff text here
 
-The taskmage's key ability is Knowledge. Their primary skills are tbd and they are trained in tbd
+The taskmage's key ability is Knowledge. Their primary skills are Exert Will and Recall Arcane Lore and they are trained in Read Someone and Ear to the Ground.
 
 | Level | Abilities |
 | ----- | --------- |
