@@ -11,7 +11,11 @@ Each character's Health is a measure of their physical health. It increases marg
 
 When you run out of Health, you're fucked.
 
+Health does come back over time.
+
 #### Conviction
 Each character's Conviction is a measure of their mental fortitude and idealism. It starts at 10 and increases based on your Exert Will. Mental attacks on you usually damage your Conviction, if you're out of Grit.
 
 When you run out of Conviction, you're fucked.
+
+Conviction does come back over time. 
