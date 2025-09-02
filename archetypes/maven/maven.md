@@ -17,4 +17,4 @@ The three Maven archetypes are [Mastermind](https://github.com/morganmayday/taye
 | 8 | tbd |
 
 #### Adapt
-A first-level maven that fails a check can cash in a Cunning Die, to allow them to spend an ability that isn't linked to the check to reroll.
+A first-level maven that fails a check can cash in a Cunning Die, to allow them to spend an ability that isn't linked to the check to salvage.
