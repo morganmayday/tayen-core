@@ -19,7 +19,7 @@ The warden's key ability is Intuition. Their primary skills are Recall Occult Lo
 A first-level warden that makes any Recall Lore check to _recall_ lore about a target can spend a Cunning Die to _recall_ one additional piece of lore, regardless of whether they succeed or fail on the check.
 
 #### Hold Shut the Gate
-A first-level warden can attempt to _forbid_ intelligent creatures from crossing thresholds willingly. They must share a language, or otherwise be able to make themselves understood to each other.
+A first-level warden in conflict scale can attempt to _forbid_ intelligent creatures from crossing thresholds willingly. They must share a language, or otherwise be able to make themselves understood to each other.
 
 The warden begins a call-and-response with a creature as a major action, setting aside a Cunning Die. They must tell the creature a new reason it cannot cross the threshold each turn, then tick down their Cunning Die if the creature responds with a counter-reason. The counter-reason must be sensibly related to the reason the warden gives, but it can be repeated if it still applies. The creature cannot cross the threshold willingly while the die remains. 
 
@@ -43,6 +43,6 @@ A third-level warden has a measure of arcanopolitical protection. While they may
 Otherworldly creatures will also avoid harming a warden, unless they're certain they can get away with it.
 
 #### Call a Conspirator
-A fourth-level warden, in a ritual that takes 1 hour and 50ma of mystic reagents, can call upon one of the jasilon of knowledge and ask them three questions, which the jasilon must answer truthfully. The entire conversation from start to finish is permanently embedded in the warden’s memory. However, most jasilon resent being bound this way, and if the warden does not offer some form of payment for services rendered, may omit certain information or reveal an unwelcome truth.
+A fourth-level warden in event scale can, as a major action and expending 50ma of mystic reagents, can call upon one of the jasilon of knowledge and ask them three questions, which the jasilon must answer truthfully. The entire conversation from start to finish is permanently embedded in the warden’s memory. However, most jasilon resent being bound this way, and if the warden does not offer some form of payment for services rendered, may omit certain information or reveal an unwelcome truth.
 
 A warden will call the same jasilon every time they use this feature, unless they research and call a different one. Maintaining a working relationship with their jasilon will likely make life easier for them. 
