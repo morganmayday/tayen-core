@@ -2,11 +2,11 @@ __Obliterate (Hit Hard)__
 
 Major action, touch, instant, vs Evade, 4 spin
 
-I: 3d6+3 bludgeoning onhit, can crit as weapons.
+I: 1d6+1 damage onhit.
 
-II: Extra spin can be spent, 2 to an additional d6+1 damage. Base dice cap at 6d6+6 total.
+II: Extra spin can be spent, 4 to an additional d6+1 damage. Base dice cap at 3d6+3 total.
 
-III: Can change type as desired. Base dice cap at 9d6+9 total.
+III: Can change type as desired. Base dice cap at 5d6+5 total.
 
 IV: Extra spin can be spent, 3 to an additional +2 on the hit check. Caps at +8.
 
