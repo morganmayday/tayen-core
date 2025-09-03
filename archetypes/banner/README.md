@@ -12,6 +12,11 @@ The three Banner archetypes are [Comrade](https://github.com/morganmayday/tayen-
 
 | Level | Abilities |
 | ----- | --------- |
-| 1 | tbd |
+| 1 | Rally |
 | 5 | tbd |
 | 8 | tbd |
+
+#### Rally
+The banner can expend Action Dice as any class can, but can also use them in other ways.
+
+-- Roll an Action Die as a free action on a successful check to _inspire_ allies performing the same check in succession, giving the die's result as a morale bonus to their allies' checks.
