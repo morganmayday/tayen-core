@@ -2,7 +2,7 @@
 
 > fluff text here
 
-The mastermind's key ability is Knowledge. Their primary skills are Manipulate and Read Someone, and they are trained in Ear to the Ground and Command.
+The mastermind's key ability is Knowledge. Their primary skills are Manipulate and Read Someone, and they receive a rank in Ear to the Ground and Command.
 
 | Level | Abilities |
 | ----- | --------- |
