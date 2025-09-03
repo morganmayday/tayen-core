@@ -23,4 +23,4 @@ To cast a spell, an arcanist declares the spell they're casting, the targets, an
 
 If an arcanist takes damage during the cast time, they must roll Endure (Difficulty 5 + the damage taken) or lose the spell and the Spin spent.
 
-If an arcanist needs more Spin to cast a spell, they can announce that they are willing to _push their limits._ They convert one Stress into a temporary Spin Die that can only be used to pay for this spell and expires after any use.
+If an arcanist needs more Spin to cast a spell, they can announce that they are willing to _push their limits._ They take one Stress, and receive a temporary Spin Die that can only be used to pay for this spell and expires after any use.
