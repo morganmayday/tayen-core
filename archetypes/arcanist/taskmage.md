@@ -2,7 +2,7 @@
 
 > fluff text here
 
-The taskmage's key ability is Knowledge. Their primary skills are Exert Will and Recall Arcane Lore and they are trained in Read Someone and Ear to the Ground.
+The taskmage's key ability is Knowledge. Their primary skills are Exert Will and Recall Arcane Lore and they receive a rank in Read Someone and Ear to the Ground.
 
 | Level | Abilities |
 | ----- | --------- |
