@@ -20,3 +20,5 @@ The three Banner archetypes are [Comrade](https://github.com/morganmayday/tayen-
 The banner can expend Action Dice as any class can, but can also use them in other ways.
 
 -- Roll an Action Die as a free action on a successful check to _inspire_ allies performing the same check in succession, giving the die's result as a morale bonus to their allies' checks.
+
+-- Roll an Action Die as a free action when an enemy fails a check to _inspirit_ allies targeting that enemy this scene, giving the die's result as a morale bonus to their allies' checks.
