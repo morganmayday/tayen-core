@@ -16,4 +16,4 @@ The tactician's key ability is Intuition. Their primary skills are Command and R
 | 8 | tbd |
 
 #### Command Allies
-A first-level tactician that cashes in an Action Die for an extra action can also grant that 
+A first-level tactician that cashes in an Action Die for an extra action can instead grant that extra action to an ally that can see and hear them.
