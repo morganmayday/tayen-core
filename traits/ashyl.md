@@ -6,4 +6,4 @@ II:
 
 III:
 
-IV:
+IV: all damage you inflict counts as your Ashen damage type? do we still have damage types
