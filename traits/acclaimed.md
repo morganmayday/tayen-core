@@ -6,4 +6,4 @@ II: When you Manipulate or Command people successfully, your reputation spreads.
 
 III: Any fame effects from your archetype are amplified. For example, an arcanist's offer from the Gilded Tower may come with a library loan, a banner sought by a liegelord may be sought by a more powerful or generous liegelord, and a maven locally acclaimed as an expert and sought out by people in their field will be able to charge a higher fee.
 
-IV: ?
+IV: Your reputation precedes you everywhere. All situational reputation bonuses and penalties you receive apply, regardless of if it's been spread.
