@@ -2,7 +2,7 @@
 
 > fluff here
 
-The Arcanist has *three* Action Dice and *four* Spin Dice, which are *d6,* gaining one Spin Die at each odd-numbered level. Their Grit Die is a *d6* and their Stress Die is a *d10*. Their Health is 6 + Build + twice their level.
+The Arcanist has *three* Action Dice and *four* Spin Dice, which are *d6,* gaining one Spin Die at each odd-numbered level. Their Grit Die is a *d6* and their Stress Die is a *d10*. Their Health is 8 + twice their level.
 
 An Arcanist of third level or higher is qualified for the in-universe title of Arcanist, and is often contacted by an organization such as the Gilded Tower with an offer of membership. An Arcanist of fifth level or higher has reached international acclaim; while they aren't a household name, anyone who knows anything about their specialties will know of them. An Arcanist of seventh level or higher has reached intersomnial acclaim, and is qualified for a Master's seat at the Gilded Tower if one is available; the most famous examples include Lyra Inkfingers and the konawen Sidhean.
 
