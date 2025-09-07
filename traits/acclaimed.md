@@ -1,6 +1,6 @@
-Acclaimed: You've made your name in some way; people may not know you well, but you've gotten up to enough for them to recognize you in the right context.
+You've made your name in some way; people may not know you well, but you've gotten up to enough for them to recognize you in the right context.
 
-When you take this trait, [you get a +2 Reputation bonus to Manipulate/people in your field will agree to help you out more easily.]
+When you take this trait, you get a +2 Reputation bonus to Manipulate people in your field of expertise.
 
 I: whichever of the two above isnt approved for first level
 
