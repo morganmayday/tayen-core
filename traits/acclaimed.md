@@ -2,10 +2,10 @@ You've made your name in some way; people may not know you well, but you've gott
 
 When you take this trait, you get a +2 Reputation bonus to Manipulate people in your field of expertise.
 
-I: whichever of the two above isnt approved for first level
+I: ?
 
 II: easier to get materials for your fuckshit?
 
-III: any effects from your archetype's fame level are amplified (what's that mean idk yet but like. arcanist gets offer from gilded tower it comes with a bonus subscript of offering a library loan. banner sought by a leigelord they're offered additional benefits. maven locally acclaimed as an expert and sought out by people in their field those people are also willing to pay a lot more for their time. etc.)
+III: Any fame effects from your archetype are amplified. For example, an arcanist's offer from the Gilded Tower may come with a library loan, a banner sought by a liegelord may be sought by a more powerful or generous liegelord, and a maven locally acclaimed as an expert and sought out by people in their field will be able to charge a higher fee.
 
 IV: ?
