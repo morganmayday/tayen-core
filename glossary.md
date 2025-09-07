@@ -1,3 +1,5 @@
+spinner
+
 primary skill
 
 skill rank
