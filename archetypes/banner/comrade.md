@@ -14,3 +14,5 @@ The comrade's key ability is Charisma. Their primary skills are Read Someone and
 | 6 | tbd |
 | 7 | tbd |
 | 8 | tbd |
+
+"Dad Talk" ability
