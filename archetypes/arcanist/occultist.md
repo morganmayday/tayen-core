@@ -23,3 +23,5 @@ Additionally, an occultist who _recalls occult lore_ can also choose to ask the 
 -- What was the nightmare I first met this thing in?
 
 Read the Signs: somethin about divination? 
+
+Learn intersomnial on a high level up, maybe?
