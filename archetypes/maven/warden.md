@@ -46,3 +46,6 @@ Otherworldly creatures will also avoid harming a warden, unless they're certain 
 A fourth-level warden in event scale can, as a major action and expending 50ma of mystic reagents, can call upon one of the jasilon of knowledge and ask them three questions, which the jasilon must answer truthfully. The entire conversation from start to finish is permanently embedded in the warden’s memory. However, most jasilon resent being bound this way, and if the warden does not offer some form of payment for services rendered, may omit certain information or reveal an unwelcome truth.
 
 A warden will call the same jasilon every time they use this feature, unless they research and call a different one. Maintaining a working relationship with their jasilon will likely make life easier for them. 
+
+
+Learn intersomnial on level up; which level? fifth, third?
