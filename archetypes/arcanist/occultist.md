@@ -21,3 +21,5 @@ A first-level occultist, when they first encounter a magical or otherwise supern
 Additionally, an occultist who _recalls occult lore_ can also choose to ask the following free question of the Spinner. Doing so will not necessarily have positive effects, but it may make interesting things happen.
 
 -- What was the nightmare I first met this thing in?
+
+Read the Signs: somethin about divination? 
