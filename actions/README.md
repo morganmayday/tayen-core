@@ -1,3 +1,7 @@
+#### Actions
+On your turn, you have either one major action or two minor actions. You can take as many different free actions as you want.
+
+#### Scales
 Tayen operates on three timescales.
 
 If you want to take an action from a shorter timescale in a longer timescale, you can! It becomes the next shorter type of action--full-round becomes major becomes minor becomes free. If something has a specific activation time listed, like "one minute", it doesn't change.
