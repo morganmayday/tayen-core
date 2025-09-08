@@ -22,3 +22,5 @@ A first-level comrade can shore up their allies' convictions. When an ally that 
 A first-level comrade can grant medical care in rest
 
 "Dad Talk" ability
+
+Learn one of your ally's languages on a level up?
