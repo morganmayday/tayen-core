@@ -28,3 +28,6 @@ A first-level tactician, when shit hits the fan, can immediately roll Read Someo
 -- What is my enemies' most immediate goal?
 
 -- What outcomes of this conflict do my enemies most want?
+
+
+Strategic Play: tbh idk what this'd *be* but it's a vibe for an ability name
