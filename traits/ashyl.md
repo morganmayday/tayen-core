@@ -4,6 +4,6 @@ When you take this trait, choose one of the Ashen Metals (lead, iron, copper, si
 
 II: When you take damage of an Ashen type (cold, mental, spectral, thunder, or lucent), you can negate _all_ past the first point of damage. You can do this only once before you Rest.
 
-III:
+III: you've investigated the writings of the past and learned Ashen.
 
 IV: all damage you inflict counts as your Ashen damage type? do we still have damage types
