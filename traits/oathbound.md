@@ -1,6 +1,6 @@
-(or possibly sworn)
+You have sworn yourself to a liegelord. 
 
-You have sworn yourself to a liegelord or similarly powerful being. You bear a symbol of your patron; when you show this to people loyal to them, they will help you out with most reasonable tasks.
+Your liegelord is responsible for your bread, bed, and head. They will pay for your food and lodging, within reason, and any criminal grievances about you must be brought to your liegelord, who then chooses punishment as is fitting.
 
 II:
 
