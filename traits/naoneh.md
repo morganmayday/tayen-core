@@ -10,4 +10,4 @@ II: You delve deeper into Naoneh history and gain a rank in Recall Occult Lore--
 
 III: 
 
-IV: You have learned the ritual to create a new naoneh.
+IV: You have learned the ritual to create a new naoneh. Doing so takes a year and a day and many exotic reagents.
