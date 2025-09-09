@@ -6,7 +6,7 @@ The vanguard's key ability is Build. Their primary skills are Hit Hard and Endur
 
 | Level | Abilities |
 | ----- | --------- |
-| 1 | Clear the Way |
+| 1 | Clear the Way, Lead the Attack |
 | 2 | tbd |
 | 3 | tbd |
 | 4 | tbd |
@@ -15,7 +15,7 @@ The vanguard's key ability is Build. Their primary skills are Hit Hard and Endur
 | 7 | tbd |
 | 8 | tbd |
 
+#### Clear the Way
 
-Lead Allies
-First level vanguard can cash in action die to offer some kind of defensive bonus to everyone in a certain radius?
-
+#### Lead the Attack
+A first-level vanguard that initiates a conflict grants themself and all allies a +2 bonus on the first check they make this conflict.
