@@ -24,5 +24,3 @@ A first-level comrade can grant medical care in rest
 "Dad Talk" ability
 
 Learn one of your ally's languages on a level up?
-
-### Inspire Allies
