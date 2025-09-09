@@ -4,6 +4,6 @@ You inherently sense the presence of magic near you--some describe it as a smell
 
 II: When you use this trait, you also pinpoint _where_ it is. This allows you to know where a magically invisible creature or object is, though it doesn't let you see it, and you lose track of it as soon as it moves.
 
-III:
+III: You immediately know when any magic is used on you, and what kind of magic it is.
 
 IV:
