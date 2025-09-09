@@ -8,6 +8,6 @@ You may only take this trait at character creation. When you do, you gain a rank
 
 II: You delve deeper into naoneh history and gain a rank in Recall Occult Lore--if that skill is at its cap, assign it elsewhere. 
 
-III: ?
+III: When you take lethal damage, instead of dying, you shatter, and can be repaired as a major action on intrigue scale. You can only use this feature once. 
 
 IV: You have learned the ritual to create a new naoneh. Doing so takes a year and a day and many exotic reagents, and is generally its own adventure.
