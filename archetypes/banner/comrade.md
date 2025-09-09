@@ -19,7 +19,7 @@ The comrade's key ability is Charisma. Their primary skills are Read Someone and
 A first-level comrade can shore up their allies' convictions. When an ally that can see and hear the comrade fails an Exert Will check or other check to avoid Conviction damage, the comrade can roll an Action Die to let them reroll, with that Action Die's result as a morale bonus.
 
 #### Reassure Allies
-A first-level comrade can grant medical care in rest
+A first-level comrade can assist an ally in recovery during a Rest. As a minor action, the comrade grants medical aid 
 
 "Dad Talk" ability
 
