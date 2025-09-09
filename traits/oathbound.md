@@ -8,6 +8,6 @@ III: You have distinguished yourself a worrying amount. Your liegelord expects t
 
 IV: You are freed from your liegelord's service. Pick one:
 
--- Retrain all four trait points you have put into this trait.
+-- Retrain all four trait points you have put into this trait, and gain another free trait point. You cannot take this trait again.
 
 -- You are a liegelord in your own right. You have, at minimum, one man-at-arms who plays the part of your bodyguard, and can recruit more.
