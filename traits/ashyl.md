@@ -6,4 +6,4 @@ II: You've investigated the writings of the past and learned Ashen. You also gai
 
 III: When you take damage of an Ashen type (cold, mental, spectral, thunder, or lucent), you can negate _all_ past the first point of damage. You can do this only once before you Rest.
 
-IV: all damage you inflict counts as your Ashen damage type? do we still have damage types
+IV: When you directly inflict damage of any type, you can change it to your Ashen type.
