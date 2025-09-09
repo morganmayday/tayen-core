@@ -2,8 +2,8 @@ Crafted from clay in a mystical ritual guarded for a millennium, your flesh rese
 
 You may only take this trait at character creation. When you do, you gain a rank in Endure and +2 Health.
 
-II: 
+II: You delve deeper into Naoneh history and gain a rank in Recall Occult Lore--if that skill is at its cap, assign it elsewhere.
 
 III: 
 
-IV: 
+IV: You have learned the ritual to create a new naoneh.
