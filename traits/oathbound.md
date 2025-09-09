@@ -4,6 +4,10 @@ Your liegelord is responsible for your bread, bed, and head. They will pay for y
 
 II: You have distinguished yourself. Your liegelord expects more from you, but gives you more leeway in executing their orders, and is more willing to grant favours to you.
 
-III: You have distinguished yourself a worrying amount. Your liegelord expects more from you, and 
+III: You have distinguished yourself a worrying amount. Your liegelord expects the best from you. Other liegelords look to poach you from their service, or assassinate you.
 
-IV: You are freed from your patron's service; this may be a result of their death or permission, or you leaving or replacing them.
+IV: You are freed from your liegelord's service. Pick one:
+
+-- Retrain all four trait points you have put into this trait.
+
+-- You are a liegelord in your own right. You have, at minimum, one man-at-arms who plays the part of your bodyguard, and can recruit more.
