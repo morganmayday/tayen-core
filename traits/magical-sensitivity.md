@@ -6,4 +6,4 @@ II: When you use this trait, you also pinpoint _where_ it is. This allows you to
 
 III: You immediately know when any magic is used on you, and what kind of magic it is.
 
-IV:
+IV: When you sense magic that is used on you, and fail a save against it, you may immediately retry, once per effect.
