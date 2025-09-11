@@ -15,7 +15,9 @@ The vanguard's key ability is Build. Their primary skills are Hit Hard and Endur
 | 7 | tbd |
 | 8 | tbd |
 
-#### Clear the Way
-A first-level vanguard that takes the Move conflict action allows
+#### Lead Allies
+A first-level vanguard that takes the Move conflict action can spend an allows up to one ally to move right behind them.
+
 #### Lead the Attack
 A first-level vanguard that initiates a conflict grants themself and all allies a +2 bonus on the first check they make this conflict.
+
