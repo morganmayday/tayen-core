@@ -7,8 +7,8 @@ The tactician's key ability is Intuition. Their primary skills are Command and R
 | Level | Abilities |
 | ----- | --------- |
 | 1 | Command Allies, Tactical Judgement |
-| 2 | tbd |
-| 3 | tbd |
+| 2 |  |
+| 3 | Make the Call |
 | 4 | tbd |
 | 5 | tbd |
 | 6 | tbd |
@@ -28,6 +28,11 @@ A first-level tactician, when shit hits the fan, can immediately roll Read Someo
 -- What is my enemies' most immediate goal?
 
 -- What outcomes of this conflict do my enemies most want?
+
+#### Make the Call
+A third-level tactician can, as a free action once per arc, if shit's already hit the fan this scene, tell the Spinner what their objective this scene is.
+
+While the tactician pursues that goal, they receive a +2 confidence bonus this scene on _all_ checks to pursue it, and their allies receive a +1 confidence bonus to the same.
 
 
 Strategic Play: tbh idk what this'd *be* but it's a vibe for an ability name
