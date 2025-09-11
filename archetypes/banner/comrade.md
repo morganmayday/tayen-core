@@ -7,8 +7,8 @@ The comrade's key ability is Charisma. Their primary skills are Read Someone and
 | Level | Abilities |
 | ----- | --------- |
 | 1 | Assure Allies, Reassure Allies |
-| 2 | tbd |
-| 3 | tbd |
+| 2 | Take the Brunt |
+| 3 | Keep an Eye Out |
 | 4 | tbd |
 | 5 | tbd |
 | 6 | tbd |
@@ -20,6 +20,15 @@ A first-level comrade can shore up their allies' convictions. When an ally that 
 
 #### Reassure Allies
 A first-level comrade can assist an ally in recovery during a Rest. As a minor action, the comrade grants medical aid for the purposes of recovering Conviction and Health.
+
+#### Take the Brunt
+A second-level comrade, when an ally near them fails an Endure, Evade, or Exert Will check and the comrade succeeds, can spend an Action Die to choose to fail in the ally's stead.
+
+#### Keep an Eye Out
+A third-level comrade that _reads intent_ can additionally ask the question, for free:
+
+-- Which, if any, of my allies do they intend to hurt [first/next]?
+
 
 "Dad Talk" ability
 
