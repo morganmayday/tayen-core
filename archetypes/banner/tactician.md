@@ -7,7 +7,7 @@ The tactician's key ability is Intuition. Their primary skills are Command and R
 | Level | Abilities |
 | ----- | --------- |
 | 1 | Command Allies, Tactical Judgement |
-| 2 |  |
+| 2 | Gambit, Countergambit |
 | 3 | Make the Call |
 | 4 | tbd |
 | 5 | tbd |
@@ -28,6 +28,9 @@ A first-level tactician, when shit hits the fan, can immediately roll Read Someo
 -- What is my enemies' most immediate goal?
 
 -- What outcomes of this conflict do my enemies most want?
+
+#### Gambit
+A second-level tactician, as a minor action, can begin a _gambit._ They declare the difficulty they're attempting, 
 
 #### Make the Call
 A third-level tactician can, as a free action once per arc, if shit's already hit the fan this scene, tell the Spinner what their objective this scene is.
