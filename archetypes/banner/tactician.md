@@ -38,5 +38,3 @@ The ally receives a +2 help bonus on the check, as if the tactician had _helped.
 A third-level tactician can, as a free action once per arc, if shit's already hit the fan this scene, tell the Spinner what their objective this scene is.
 
 While the tactician pursues that goal, they receive a +2 confidence bonus this scene on _all_ checks to pursue it. If the goal is thwarted, though, they _immediately_ lose 4 Grit and take 2 Stress.
-
-Strategic Play: tbh idk what this'd *be* but it's a vibe for an ability name
