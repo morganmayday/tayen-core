@@ -7,7 +7,7 @@ The sharp's key ability is Knowledge. Their primary skills are Finagle and Be Pr
 | Level | Abilities |
 | ----- | --------- |
 | 1 | Cunning Improvisation, Mix It Up |
-| 2 | tbd |
+| 2 | Focus Up |
 | 3 | tbd |
 | 4 | tbd |
 | 5 | tbd |
@@ -22,6 +22,9 @@ A first-level sharp that rolls _any_ skill check can spend a Cunning Die to appl
 A first-level sharp does not have access to spin dice, but can still cast spells like arcanists can. They choose two skills they have one or more ranks in, as well as Finagle, to have access to spells from.
 
 They do not have Spin Dice, but can convert a Cunning Die to spin equal to its value during the casting of a spell. They don't keep any excess, and can only do this with one die before they rest.
+
+#### Focus Up
+A second-level sharp, when shit hits the fan, can ask the Spinner
 
 Design Notes
 
