@@ -1,4 +1,4 @@
-You are sensitive to the magic around you. 
+Your sense of _yse,_ the energy around you, is more acute than most, making you sensitive to the magic around you in a form of synesthesia. 
 
 You inherently sense the presence of magic near you--some describe it as a smell, a taste, a sensation on the skin. You can expend an Action Die as a free action to pinpoint what kind of magic it is.
 
