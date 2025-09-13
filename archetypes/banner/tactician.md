@@ -9,7 +9,7 @@ The tactician's key ability is Intuition. Their primary skills are Command and R
 | 1 | Command Allies, Tactical Judgement |
 | 2 | Issue Orders |
 | 3 | Make the Call |
-| 4 | tbd |
+| 4 | Formation |
 | 5 | tbd |
 | 6 | tbd |
 | 7 | tbd |
@@ -33,6 +33,9 @@ A first-level tactician, when shit hits the fan, can immediately roll Read Someo
 A second-level tactician can, at the start of their turn in any timescale, expend an Action Die and roll Command, choosing an ally they can communicate with. They direct the ally in a course of action. 
 
 The ally receives a +2 help bonus on the check, as if the tactician had _helped._ On a 15+, the ally receives a +2 morale bonus as well. 
+
+#### Formation
+A fourth-level tactician, when shit hits the fan, can reposition all their allies in the scene as they choose as a free action, except themself and any allies in melee.
 
 #### Make the Call
 A third-level tactician can, as a free action once per arc, if shit's already hit the fan this scene, tell the Spinner what their objective this scene is.
