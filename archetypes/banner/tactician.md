@@ -34,10 +34,10 @@ A second-level tactician can, at the start of their turn in any timescale, expen
 
 The ally receives a +2 help bonus on the check, as if the tactician had _helped._ On a 15+, the ally receives a +2 morale bonus as well. 
 
-#### Formation
-A fourth-level tactician, when shit hits the fan, can reposition all their allies in the scene as they choose as a free action, except themself and any allies in melee.
-
 #### Make the Call
 A third-level tactician can, as a free action once per arc, if shit's already hit the fan this scene, tell the Spinner what their objective this scene is.
 
 While the tactician pursues that goal, they receive a +2 confidence bonus this scene on _all_ checks to pursue it. If the goal is thwarted, though, they _immediately_ lose 4 Grit and take 2 Stress.
+
+#### Formation
+A fourth-level tactician, when shit hits the fan, can reposition all their allies in the scene as they choose as a free action, except themself and any allies in melee.
