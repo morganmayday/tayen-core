@@ -20,9 +20,7 @@ A first-level mastermind that _reads intent_ can spend a Cunning Die to ask an a
 
 -- What would I have to offer them to do what I want?
 
--- How strong are their convictions?
-
-> note flag on "how strong"
+-- Are their convictions stronger than mine?
 
 #### Aid Allies
 A first-level mastermind can help their allies succeed more effectively. They can use Read Someone to _help_ in skills they aren't trained in; since Read Someone is a primary skill for them, they will always be able to _help._
