@@ -9,7 +9,7 @@ The comrade's key ability is Charisma. Their primary skills are Read Someone and
 | 1 | Assure Allies, Reassure Allies |
 | 2 | Take the Brunt |
 | 3 | Keep an Eye Out |
-| 4 | tbd |
+| 4 | Bastion |
 | 5 | tbd |
 | 6 | tbd |
 | 7 | tbd |
@@ -29,7 +29,5 @@ A third-level comrade that _reads intent_ can additionally ask the question, for
 
 -- Which, if any, of my allies do they intend to hurt [first/next]?
 
-
-"Dad Talk" ability
-
-Learn one of your ally's languages on a level up?
+#### Bastion
+A fourth-level comrade, when shit hits the fan, gains _extra grit_, 2 for each enemy in the scene. This can go above their usual maximum, but any excess is lost when the scene ends. 
