@@ -2,13 +2,15 @@ __Snipe (Strike First)__
 
 Minor action, variable, instant, vs Evade, 3 spin
 
-I: 1d3 piercing damage, 10ft-30ft range.
+I: Damage capped at 3, 10ft-30ft range.
 
-II: 1d3 piercing damage, 20ft-60ft range. Apply [statuseffect tbd].
+II: Damage capped at 4, 20ft-60ft range. 
 
-III: 1d3 piercing damage, 30ft-90ft range. Ignores partial cover. Apply [statuseffect tbd].
+III: Damage capped at 5, 30ft-90ft range. Ignores partial cover.
 
-IV: 1d3 piercing damage, 40ft-120ft range. Ignores cover. Apply [statuseffect tbd].
+IV: Damage capped at 6, 40ft-120ft range. Ignores cover.
+
+- morgan note: potentially applies status effects on 2, 3, 4 ranks
 
 __Be Precise?__
 
