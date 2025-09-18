@@ -7,7 +7,7 @@ The taskmage's key ability is Knowledge. Their primary skills are Exert Will and
 | Level | Abilities |
 | ----- | --------- |
 | 1 | Triage Problem |
-| 2 | Eighth Sense |
+| 2 | Sixth Sense |
 | 3 | Practical Dispel |
 | 4 | tbd |
 | 5 | tbd |
@@ -24,8 +24,8 @@ A first-level taskmage that enters a conflict can immediately ask the Spinner on
 
 -- How could I most efficiently make the situation worse for me and my allies?
 
-#### Eighth Sense
-A second-level taskmage can, at the start of their turn as a free action, begin concentrating, opening their eighth sense, their _veja_. While concentrating, they are aware of all minds within 30ft of them. They can't be surprised by any thinking things within that range, and know when a spell starts being cast within that range. They can _read intent_ on any of those thinking targets, even without interacting with them.
+#### Sixth Sense
+A second-level taskmage can, at the start of their turn as a free action, begin concentrating, opening their sixth sense, their _ware_. While concentrating, they are [aware of all minds within 30ft of them. They can't be surprised by any thinking things within that range, and know when a spell starts being cast within that range. They can _read intent_ on any of those thinking targets, even without interacting with them.]
 
 If their concentration is broken, they take 1 Stress and can't open their veja again until they have Rested. If they dismiss the effect, there is no penalty.
 
