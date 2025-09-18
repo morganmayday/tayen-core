@@ -1,5 +1,7 @@
 Each character has a Stress Die, a Grit Die, Health, and Conviction.
 
+You have one chance to _Evade_ or _Endure_ attacks, usually. Damage is the difference between rolls. 
+
 #### Stress Die
 Each character's Stress Die sits at 1 until they become more Stressed. When their Stress Die overflows, they suffer a complete breakdown.
 
