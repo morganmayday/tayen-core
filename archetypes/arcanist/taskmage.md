@@ -7,7 +7,7 @@ The taskmage's key ability is Knowledge. Their primary skills are Exert Will and
 | Level | Abilities |
 | ----- | --------- |
 | 1 | Triage Problem |
-| 2 | Seventh Sense |
+| 2 | Eighth Sense |
 | 3 | Practical Dispel |
 | 4 | tbd |
 | 5 | tbd |
@@ -24,10 +24,10 @@ A first-level taskmage that enters a conflict can immediately ask the Spinner on
 
 -- How could I most efficiently make the situation worse for me and my allies?
 
-#### Seventh Sense
-A second-level taskmage can, at the start of their turn as a free action, begin concentrating, opening their seventh sense, their _yse_. While concentrating, they are alerted to the presence of any magic within about 30ft of them, as well as its kind (fulcry, rectory, or revery). They gain a +2 focus bonus to Evade against any magical attacks that pass within that range, and know when a spell starts being cast within that range.
+#### Eighth Sense
+A second-level taskmage can, at the start of their turn as a free action, begin concentrating, opening their eighth sense, their _veja_. While concentrating, they are aware of all minds within 30ft of them. They can't be surprised by any thinking things within that range, and know when a spell starts being cast within that range. They can _read intent_ on any of those thinking targets, even without interacting with them.
 
-If their concentration is broken, they take 1 Stress and can't open their yse again until they have Rested. If they dismiss the effect, there is no penalty.
+If their concentration is broken, they take 1 Stress and can't open their veja again until they have Rested. If they dismiss the effect, there is no penalty.
 
 #### Practical Dispel
 A third-level taskmage that uses Exert Will to end a magical effect can roll and add an Action Die to add to the Exert Will check. If they succeed, they replenish up to that Action Die's result of spin.
