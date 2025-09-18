@@ -6,7 +6,7 @@ I: You may ask the Spinner one of the following questions.
 
 tbd
 
--- Read Someone
+__Soulread (Read Someone)__
 - Find weaknesses in opponents, especially in social settings. Single target, instead of Evade's more general dodge
 - morgan note: not Detect Thoughts, but perhaps like. an impulse foresight
 
