@@ -25,9 +25,9 @@ A first-level taskmage that enters a conflict can immediately ask the Spinner on
 -- How could I most efficiently make the situation worse for me and my allies?
 
 #### Sixth Sense
-A second-level taskmage can, at the start of their turn as a free action, begin concentrating, opening their sixth sense, their _ware_. While concentrating, they are [aware of all minds within 30ft of them. They can't be surprised by any thinking things within that range, and know when a spell starts being cast within that range. They can _read intent_ on any of those thinking targets, even without interacting with them.]
+A second-level taskmage can, at the start of their turn as a free action, begin concentrating, opening their sixth sense, their _ware_. While concentrating, they receive a +2 focus bonus on Read Someone and Evade.
 
-If their concentration is broken, they take 1 Stress and can't open their veja again until they have Rested. If they dismiss the effect, there is no penalty.
+If their concentration is broken, they take 1 Stress and can't open their ware again until they have Rested. If they dismiss the effect, there is no penalty.
 
 #### Practical Dispel
 A third-level taskmage that uses Exert Will to end a magical effect can roll and add an Action Die to add to the Exert Will check. If they succeed, they replenish up to that Action Die's result of spin.
