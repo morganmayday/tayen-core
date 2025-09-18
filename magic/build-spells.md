@@ -2,13 +2,13 @@ __Obliterate (Hit Hard)__
 
 Major action, touch, instant, vs Evade, 4 spin
 
-I: 1d6+1 damage onhit.
+I: +2 damage on hit. Elemental type (cold, fire, or lightning) only.
 
-II: Extra spin can be spent, 4 to an additional d6+1 damage. Base dice cap at 3d6+3 total.
+II: Extra spin can be spent, 4 to an additional +2 damage. Bonus damage cap at +6 total.
 
-III: Can change type as desired. Base dice cap at 5d6+5 total.
+III: Can change type as desired. Bonus damage cap at +10 total.
 
-IV: Extra spin can be spent, 3 to an additional +2 on the hit check. Caps at +8.
+IV: Affect hit roll rather than damage.
 
 __Travel (Move)__
 
@@ -32,4 +32,4 @@ II: Projectiles that would hit allies within 15ft of you (but not you) deal half
 
 III: Concentrate on two things simultaneously this scene. Free action.
 
-IV: Raise a wall from the earth within 120ft of you, up to 20ft long, 5ft thick, and 10ft tall. Permanent. Full-round action.
+IV: Raise a wall from the earth within 120ft of you, up to 20ft long, 5ft thick, and 10ft tall, or carve a trench of equivalent dimensions. Permanent. Full-round action.
