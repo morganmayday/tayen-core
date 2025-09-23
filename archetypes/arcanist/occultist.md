@@ -2,9 +2,9 @@
 
 > fluff text here
 
-The occultist's key ability is Knowledge. Their primary skills are Recall Occult Lore and Exert Will and they receive a rank in Research and Recall Arcane Lore*.
+The occultist's key ability is Knowledge. Their primary skills are Recall Occult Lore and Exert Will, and they receive a rank in Research and Recall Arcane Lore*.
 
-*Flagged for revision
+*Flagged for revision; suggested swap in Read Someone, alternate suggestions Be Precise, Track Down
 
 | Level | Abilities |
 | ----- | --------- |
