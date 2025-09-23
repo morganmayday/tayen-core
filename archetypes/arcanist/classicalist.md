@@ -2,7 +2,8 @@
 
 > fluff text here
 
-The classicalist's key ability is Knowledge. Their primary skills are Recall Arcane Lore and Research and they receive a rank in Recall Occult Lore and Recall Alchemical Lore.
+The classicalist's key ability is Knowledge. Their primary skills are Recall Arcane Lore and Research and they receive a rank in Recall Occult Lore* and Recall Alchemical Lore.*
+*Flagged for revision
 
 | Level | Abilities |
 | ----- | --------- |
