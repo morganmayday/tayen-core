@@ -4,7 +4,7 @@ On your turn, you have either one major action or two minor actions. You can tak
 #### Scales
 Tayen operates on three timescales.
 
-If you want to take an action from a shorter timescale in a longer timescale, you can! It becomes the next shorter type of action--full-round becomes major becomes minor becomes free. If something has a specific activation time listed, like "one minute", it doesn't change.
+If you want to take an action from a shorter timescale in a longer timescale, you can! It becomes the next shorter type of action--full-round becomes major becomes minor becomes free. If something has a specific activation time listed, like "one minute", it doesn't change. Sometimes this won't make sense. The Spinner has final say.
 
 #### Conflict Scale
 Conflict scale is bullet time. Each major action is about five seconds. Conflict scale is used for debates, duels, raids, and the like--things where hair-trigger action-reaction is necessary.

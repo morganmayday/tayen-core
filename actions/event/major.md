@@ -8,3 +8,12 @@ For an *uncommon consumable* or a *tool,* the DC is 12. Uncommon consumables inc
 For a *rare consumable,* the DC is 17. Rare consumables include expensive or odd magical reagents, spell crystals, and the like.
 
 For a *rare tool,* the DC is 20. Rare tools include things that could be described as cutting-edge, hyperspecialised, and the like.
+
+#### Mingle
+You socialize. Choose two of the following.
+
+-- Read a Situation, as the conflict minor action.
+
+-- Read Intent, as the conflict minor action.
+
+-- Make an Impression. Roll Manipulate. On a 12 or better, you get a +2 forward bonus to Manipulate with the group you socialized with for the rest of the scene. On a 17 or better, the bonus doesn't expire at the end of the scene.
