@@ -21,11 +21,11 @@ A first-level sharp that rolls _any_ skill check can spend a Cunning Die to appl
 #### Mix It Up
 A first-level sharp does not have access to spin dice, but can still cast spells like arcanists can. They choose two skills they have one or more ranks in, as well as Finagle, to have access to spells from.
 
-They do not have Spin Dice, but can convert a Cunning Die to spin equal to its value during the casting of a spell. They don't keep any excess, and can only do this with one die before they rest.
+They do not have Spin Dice, but can convert a Cunning Die to spin equal to its value during the casting of a spell. They don't keep any excess, and can only do this with one die per spell.
 
 #### Focus Up
-A second-level sharp, when shit hits the fan, can ask the Spinner
+A second-level sharp, when shit hits the fan, can ask the Spinner [ FLAG : COMPLETE ]
 
-Design Notes
 
-I want the Sharp to be kind of. The vibe of "I'll find weird solutions to weird problems". This makes it kind of an inherently problem class but also I love it too much rn
+> Morgan design notes:
+> I want the Sharp to be kind of. The vibe of "I'll find weird solutions to weird problems". This makes it kind of an inherently problem class but also I love it too much rn
