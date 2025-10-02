@@ -6,7 +6,7 @@ Crafted from clay in a mystical ritual guarded for a millennium, your flesh rese
 
 You may only take this trait at character creation. When you do, you gain a rank in Endure and +2 Health.
 
-II: You delve deeper into naoneh history and gain a rank in Recall Occult Lore and Recall Historical Lore--if either of those skills is at its cap, assign its point elsewhere. 
+II: You delve deeper into naoneh history and gain a rank in Recall Lore. If it's at it cap, assign it elsewhere. You also gain Recall Occult and Historical lore specialties.
 
 III: When you take lethal damage, instead of dying, you shatter, and can be repaired as a major action on intrigue scale. You can only use this feature once. 
 
