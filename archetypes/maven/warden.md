@@ -2,9 +2,7 @@
 
 > fluff text here
 
-The warden's key ability is Intuition. Their primary skills are Recall Occult Lore and Track Down, and they receive a rank in Ear to the Ground and one other Recall Lore option*.
-
-*Flagged for revision; suggest Move as alt option; other alt suggestions include Exert Will, Endure 
+The warden's key ability is Intuition. Their primary skills are Recall Occult Lore and Track Down, and they receive a rank in Ear to the Ground and Endure.
 
 | Level | Abilities |
 | ----- | --------- |
@@ -28,7 +26,7 @@ The warden begins a call-and-response with a creature as a major action, setting
 A creature can still attempt to affect the warden, force them to stop speaking, or similar, but the warden receives a bonus on all instigated contests equal to the Cunning Die's number.
 
 #### Intuit
-A second-level warden gets a +1 grit bonus on all checks to _intuit information_ per Grit they're missing.
+A second-level warden gets a +1 grit bonus on all checks to _intuit information_ (usually in the Read Intent or Read a Situation action) per Grit they're missing.
 
 #### Dream Step
 A third-level warden can, by concentrating for one minute, locate the nearest dreamcrossing by direction and distance, and can ask one of the following questions. They can hold their question until they attempt to activate the dreamcrossing.
@@ -45,9 +43,6 @@ A third-level warden has a measure of arcanopolitical protection. While they may
 Otherworldly creatures will also avoid harming a warden, unless they're certain they can get away with it.
 
 #### Call a Conspirator
-A fourth-level warden in event scale can, as a major action and expending 50ma of mystic reagents, can call upon one of the jasilon of knowledge and ask them three questions, which the jasilon must answer truthfully. The entire conversation from start to finish is permanently embedded in the warden’s memory. However, most jasilon resent being bound this way, and if the warden does not offer some form of payment for services rendered, may omit certain information or reveal an unwelcome truth.
+A fourth-level warden in event scale can, as a major action and expending 1 credit's worth of mystic reagents, can call upon one of the jasilon of knowledge and ask them three questions, which the jasilon must answer truthfully. The entire conversation from start to finish is permanently embedded in the warden’s memory. However, most jasilon resent being bound this way, and if the warden does not offer some form of payment for services rendered, may omit certain information or reveal an unwelcome truth.
 
 A warden will call the same jasilon every time they use this feature, unless they research and call a different one. Maintaining a working relationship with their jasilon will likely make life easier for them. 
-
-
-Learn intersomnial on level up; which level? fifth, third?
