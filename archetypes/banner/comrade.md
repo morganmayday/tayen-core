@@ -25,7 +25,7 @@ A first-level comrade can assist an ally in recovery during a Rest. As a minor a
 A second-level comrade, when an ally near them fails an Endure, Evade, or Exert Will check and the comrade succeeds, can spend an Action Die to choose to fail in the ally's stead.
 
 #### Keep an Eye Out
-A third-level comrade that _reads someone_ can additionally ask the question, for free:
+A third-level comrade that _reads intent_ or _reads a situation- can additionally ask the question, for free:
 
 -- Which, if any, of my allies do they intend to hurt [first/next]?
 
