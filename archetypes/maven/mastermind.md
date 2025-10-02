@@ -46,6 +46,3 @@ A third-level mastermind can't see the future, but that doesn't mean they don't 
 -- What is this player going to try to do in this conflict?
 
 -- If I [engage in/disengage from] this conflict, what would the immediate effects of that be?
-
-
-learn an additional language to plot better where people can't overhear/translate it lmao
