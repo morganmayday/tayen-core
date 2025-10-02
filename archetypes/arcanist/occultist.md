@@ -2,9 +2,7 @@
 
 > fluff text here
 
-The occultist's key ability is Knowledge. Their primary skills are Recall Occult Lore and Exert Will, and they receive a rank in Research and Recall Arcane Lore*.
-
-*Flagged for revision; suggested swap in Read Someone, alternate suggestions Be Precise, Track Down
+The occultist's key ability is Knowledge. Their primary skills are Recall Occult Lore and Exert Will, and they receive a rank in Research and Track Down.
 
 | Level | Abilities |
 | ----- | --------- |
@@ -30,4 +28,4 @@ A second-level occultist can, at the start of their turn as a free action, begin
 If their concentration is broken, they take 1 Stress and can't open their veja again until they have Rested. If they dismiss the effect, there is no penalty.
 
 #### Read the Signs
-A third-level occultist learns to predict the future. When they _read a situation,_
+A third-level occultist learns to predict the future. When they _read a situation,_ [ FLAG : COMPLETE ]
