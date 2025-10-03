@@ -30,7 +30,7 @@ A first-level tactician, when shit hits the fan, can immediately roll Read Someo
 -- What outcomes of this conflict do my enemies most want?
 
 #### Issue Orders
-A second-level tactician can, at the start of their turn in any timescale, expend an Action Die and roll Command, choosing an ally they can communicate with. They direct the ally in a course of action. 
+A second-level tactician can, at the start of their turn in any timescale, expend an Action Die and roll Command, choosing an ally they can communicate with. They direct the ally in a course of action, which they take on their turn.
 
 The ally receives a +2 help bonus on the check, as if the tactician had _helped._ On a 15+, the ally receives a +2 morale bonus as well. 
 
