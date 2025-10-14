@@ -4,6 +4,6 @@ When you take this trait, choose one of the Ashen Metals (lead, iron, copper, si
 
 II: You've investigated the writings of the past and learned Ashen. You also gain Historical Lore as a lore specialty.
 
-III: When you take damage of an Ashen type (cold, mental, spectral, thunder, or lucent), you can negate _all_ past the first point of damage. You can do this only once before you Rest.
+III: When you take damage of an Ashen type (mental, cold, spectral, thunder, or lucent), you can negate _all_ past the first point of damage. You can do this only once before you Rest.
 
 IV: When you directly inflict damage of any type, you can change it to your Ashen type.
