@@ -8,7 +8,7 @@ The classicalist's key ability is Knowledge. Their primary skills are Recall Arc
 | ----- | --------- |
 | 1 | Classical Training, Veya Fluency |
 | 2 | Seventh Sense |
-| 3 | tbd |
+| 3 | Arcanum |
 | 4 | tbd |
 | 5 | tbd |
 | 6 | tbd |
@@ -26,3 +26,7 @@ A first-level classicalist is considered fluent in Veya, in addition to Trade an
 A second-level classicalist can, at the start of their turn as a free action, begin concentrating, opening their seventh sense, their _yse_. While concentrating, they are alerted to the presence of any magic within about 30ft of them, as well as its kind (fulcry, rectory, or revery). They gain a +2 focus bonus to Evade against any magical attacks that pass within that range, and know when a spell starts being cast within that range.
 
 If their concentration is broken, they take 1 Stress and can't open their yse again until they have Rested. If they dismiss the effect, there is no penalty.
+
+#### Arcanum
+
+A third-level classicalist that casts any spell while they're missing half or more of their Grit can choose to take 2 Stress to refund the spin cost entirely, up to six refunded. They don't get empty Spin Dice back doing this, and can only do this once before they have to rest.
