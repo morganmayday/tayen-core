@@ -26,7 +26,7 @@ The warden begins a call-and-response with a creature as a major action, setting
 A creature can still attempt to affect the warden, force them to stop speaking, or similar, but the warden receives a bonus on all instigated contests equal to the Cunning Die's number.
 
 #### Intuit
-A second-level warden gets a +1 grit bonus on all checks to _intuit information_ (usually in the Read Intent or Read a Situation action) per Grit they're missing.
+A second-level warden gets a +1 grit bonus on while _reading a situation_ or _reading someone_ per Grit they're missing.
 
 #### Dream Step
 A third-level warden can, by concentrating for one minute, locate the nearest dreamcrossing by direction and distance, and can ask one of the following questions. They can hold their question until they attempt to activate the dreamcrossing.
