@@ -26,7 +26,7 @@ A first-level mastermind that _reads intent_ can spend a Cunning Die to ask an a
 A first-level mastermind can help their allies succeed more effectively. They can use Read Someone to _help_ in skills they aren't trained in; since Read Someone is a primary skill for them, they will always be able to _help._
 
 #### Backup Plan
-A second-level mastermind begins to think about contingencies. When shit hits the fan, they can roll Ear to the Ground, with a +1 grit bonus for each Grit they're missing.
+A second-level mastermind begins to think about contingencies. When shit hits the fan, they can roll Plot, with a +1 grit bonus for each Grit they're missing.
 
 On a 12 or higher, the mastermind tells the Spinner about their contingency plan, and the Spinner tells them what's different here that they didn't forsee.
 
