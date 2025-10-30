@@ -22,7 +22,7 @@
 #### Knowledge Skills
 -- Recall Lore\*
 
--- Finagle
+-- Plot
 
 -- Research
 
