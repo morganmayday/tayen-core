@@ -29,5 +29,7 @@ A third-level vanguard, when shit hits the fan, can immediately ask the Spinner 
 
 -- What is the priority target that is most vulnerable to me?
 
+They get a +2 intent bonus for the scene to affect that priority target.
+
 #### Break Their Line
 A fourth-level vanguard that reduces an enemy to 0 Grit, Conviction, or Health can immediately, as a free action, attack any number of enemies that can see or hear them using Command, opposed by Exert Will. They can only do this once per Rest.
