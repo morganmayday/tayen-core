@@ -2,7 +2,7 @@
 
 > fluff text here
 
-The vanguard's key ability is Build. Their primary skills are Hit Hard and Endure, and they receive a rank in Command and Move.
+The vanguard's primary skills are Hit Hard and Endure, and they receive a rank in Command and Move.
 
 | Level | Abilities |
 | ----- | --------- |
