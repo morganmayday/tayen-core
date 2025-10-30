@@ -2,7 +2,7 @@
 
 > fluff text here
 
-The warden's key ability is Intuition. Their primary skills are Recall Occult Lore and Track Down, and they receive a rank in Ear to the Ground and Endure.
+The warden's key ability is Intuition. Their primary skills are Recall Occult Lore and Track Down, and they receive a rank in Ear to the Ground and Strike First.
 
 | Level | Abilities |
 | ----- | --------- |
