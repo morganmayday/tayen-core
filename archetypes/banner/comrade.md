@@ -2,7 +2,7 @@
 
 > fluff text here
 
-The comrade's key ability is Charisma. Their primary skills are Read Someone and Ear to the Ground, and they receive a rank in Exert Will and Endure.
+The comrade's primary skills are Read Someone and Ear to the Ground, and they receive a rank in Exert Will and Endure.
 
 | Level | Abilities |
 | ----- | --------- |
