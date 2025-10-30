@@ -2,7 +2,7 @@
 
 > fluff text here
 
-The tactician's key ability is Intuition. Their primary skills are Command and Read Someone, and they receive a rank in Recall Historical Lore and Hit Hard.
+The tactician's key ability is Intuition. Their primary skills are Command and Plot, and they receive a rank in Recall Historical Lore and Hit Hard.
 
 | Level | Abilities |
 | ----- | --------- |
@@ -19,7 +19,7 @@ The tactician's key ability is Intuition. Their primary skills are Command and R
 A first-level tactician that cashes in an Action Die for an extra action can instead grant that extra action to an ally that can see and hear them.
 
 #### Tactical Judgement
-A first-level tactician, when shit hits the fan, can immediately roll Read Someone and ask the Spinner a question. On a 12+, they may ask an additional question. On a 15+, they may ask two additional questions instead.
+A first-level tactician, when shit hits the fan, can immediately roll Plot and ask the Spinner a question. On a 12+, they may ask an additional question. On a 15+, they may ask two additional questions instead.
 
 -- Which of my allies is in greatest danger here?
 
