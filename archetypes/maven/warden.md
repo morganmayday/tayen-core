@@ -38,11 +38,9 @@ A third-level warden can, by concentrating for one minute, locate the nearest dr
 -- Where does it ultimately lead?
 
 #### Go Between
-A third-level warden has a measure of arcanopolitical protection. While they may not be a member of an organization, they give off a _vibe,_ for lack of a better term--anyone two or more levels below them will not fuck with them, as the otherworldly forces they have touched have touched them back. They also get a +2 competence bonus to Command. 
-
-Otherworldly creatures will also avoid harming a warden, unless they're certain they can get away with it.
+A third-level warden has an otherworldly aura, granting them a +2 competence bonus to Command. Otherworldly creatures will also avoid harming a warden, unless they're certain they can get away with it.
 
 #### Call a Conspirator
-A fourth-level warden in event scale can, as a major action and expending 1 credit's worth of mystic reagents, can call upon one of the jasilon of knowledge and ask them three questions, which the jasilon must answer truthfully. The entire conversation from start to finish is permanently embedded in the warden’s memory. However, most jasilon resent being bound this way, and if the warden does not offer some form of payment for services rendered, may omit certain information or reveal an unwelcome truth.
+A fourth-level warden in event scale can, as a major action and expending 1 credit worth of mystic reagents, can call upon one of the jasilon of knowledge and ask them three questions, which the jasilon must answer truthfully. The entire conversation from start to finish is permanently embedded in the warden’s memory. However, most jasilon resent being bound this way, and if the warden does not offer some form of payment for services rendered, may omit certain information or reveal an unwelcome truth.
 
 A warden will call the same jasilon every time they use this feature, unless they research and call a different one. Maintaining a working relationship with their jasilon will likely make life easier for them. 
