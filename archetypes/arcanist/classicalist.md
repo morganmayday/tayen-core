@@ -2,7 +2,7 @@
 
 > fluff text here
 
-The classicalist's key ability is Knowledge. Their primary skills are Recall Arcane Lore and Research and they receive a rank in Be Precise and Exert Will.
+The classicalist's primary skills are Recall Arcane Lore and Research and they receive a rank in Be Precise and Exert Will.
 
 | Level | Abilities |
 | ----- | --------- |
