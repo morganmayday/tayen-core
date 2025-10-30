@@ -2,7 +2,7 @@
 
 > fluff text here
 
-The tactician's key ability is Intuition. Their primary skills are Command and Plot, and they receive a rank in Recall Historical Lore and Hit Hard.
+The tactician's primary skills are Command and Plot, and they receive a rank in Recall Historical Lore and Hit Hard.
 
 | Level | Abilities |
 | ----- | --------- |
