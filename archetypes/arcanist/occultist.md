@@ -28,4 +28,4 @@ A second-level occultist can, at the start of their turn as a free action, begin
 If their concentration is broken, they take 1 Stress and can't open their veja again until they have Rested. If they dismiss the effect, there is no penalty.
 
 #### Read the Signs
-A third-level occultist learns to predict the future. When they _read a situation,_ [ FLAG : COMPLETE ]
+A third-level occultist learns to predict the future. When they _read a situation,_ they may always ask "Who or what should I have an eye on here?" as a free question.
