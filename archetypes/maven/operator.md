@@ -8,7 +8,7 @@ The operator's primary skills are Be Precise and Research, and they receive a ra
 | ----- | --------- |
 | 1 | Cunning Adaptation, Source |
 | 2 | Make Use Of |
-| 3 | tbd |
+| 3 | Improvise |
 | 4 | tbd |
 | 5 | tbd |
 | 6 | tbd |
