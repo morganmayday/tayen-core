@@ -28,9 +28,9 @@ The Spinner tells them _you could get your hands on it, but,_ and chooses up to 
 -- You'll need to ally with someone you find unpleasant.\
 -- You'll need to pay up.\
 -- You'll owe someone.\
--- You'll make an enemy or alienate an ally.\
+-- You'll make an enemy or alienate an ally.
 
 The amount of effort it takes to get your hands on it is up to the Spinner. It has to be possible, but _possible_ doesn't mean _easy._
 
 #### Make Use Of
-A second-level operator, while missing half or more of their Grit, receives a +1 grit bonus to any checks they get a tool bonus on.
+A second-level operator, while missing half or more of their Grit, receives a +1 grit bonus to any checks they're already getting a tool bonus on. While they're missing all of their grit, this increases to a +2.
