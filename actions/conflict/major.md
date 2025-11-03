@@ -15,7 +15,7 @@ You must be in an appropriate range--for example, to Hit Hard with a melee weapo
 
 > Sidebar: Manipulate and Command Offensives\
 > Generally, you use Manipulate when you don't want your target to realize you're manipulating them, and Command when you're relying not necessarily on force but on _authority._\
-> Hit Hard and Strike First are not limited to physical efforts! In a social context, they are both incredibly useful skills to use--Strike First might let you preempt a rival's point, and Hit Hard would let you use pure overwhelming rhetorical force.
+> Hit Hard and Strike First are not limited to physical efforts! In a social context, they are both incredibly useful skills to use--Strike First might let you preempt a rival's point, and Hit Hard would let you use pure overwhelming rhetorical force. The setting-appropriate version of "L + ratio + no bitches + here's a picture of your house from when I was visiting your mother last night" would be a Hit Hard check.
 
 #### Help
 You aid an ally with a skill check. You must have a rank in the skill they're rolling to Help. 
