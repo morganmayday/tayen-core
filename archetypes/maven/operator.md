@@ -34,3 +34,6 @@ The amount of effort it takes to get your hands on it is up to the Spinner. It h
 
 #### Make Use Of
 A second-level operator, while missing half or more of their Grit, receives a +1 grit bonus to any checks they're already getting a tool bonus on. While they're missing all of their grit, this increases to a +2.
+
+#### Improvise
+A third-level operator can, when shit hits the fan and as a major action in conflict scale, cash in a Cunning Die to create a temporary tool from their environment. It grants either a +1 tool bonus on two skills or a +2 tool bonus on one skill. They can have up to four tools, as long as one of them is an Improvised tool. Improvised tools last until end of conflict.
