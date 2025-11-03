@@ -17,7 +17,7 @@ The operator's primary skills are Be Precise and Research, and they receive a ra
 
 #### Cunning Adaptation
 A first-level operator can, when they fail any skill check, spend a Cunning Die to change _one_ of the skills one of their tools affects. This lasts until they next take a rest, and doesn't affect the roll.\
--# note: You can only change your tool if you can justify the _item_ being able to do the new skill--for example, a switchblade could reasonably Command, Strike First, Hit Hard, and probably other things, but it's unlikely to help with Recall Lore.
+> note: You can only change your tool if you can justify the _item_ being able to do the new skill--for example, a switchblade could reasonably Command, Strike First, Hit Hard, and probably other things, but it's unlikely to help with Recall Lore.
 
 Additionally, as a full-round action in conflict scale, a minor action in event scale, or a free action at start of their turn in intrigue scale, they can _permanently_ change one of those skills, or swap out the tool entirely.
 
