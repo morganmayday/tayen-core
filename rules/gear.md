@@ -18,5 +18,7 @@ A tool can grant one of the following:
 
 -- +1 to three skills.
 
+Note: tool bonuses _do not_ stack. Take the best one that applies to a skill.
+
 #### Consumables
 Consumable items require me to do something about it fuck me yall I don't want to rn
