@@ -12,11 +12,11 @@ Each tool is keyed to a skill it benefits. Weapons tend to be a bonus to Hit Har
 
 A tool can grant one of the following:
 
--- +3 to one skill, no penalties.
+-- +3 to one skill.
 
--- +2 to one skill and +1 to another, no penalties.
+-- +2 to one skill and +1 to another.
 
--- +5 to one skill, -2 to another, -1 to an ability you have at least one point in. [ FLAGGED FOR BALANCE TESTING ]
+-- +1 to three skills.
 
 #### Consumables
 Consumable items require me to do something about it fuck me yall I don't want to rn
