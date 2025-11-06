@@ -7,7 +7,7 @@ II: Damage capped at 5, 20ft-60ft range. Excess damage, up to 3, refunds as spin
 
 III: Damage capped at 7, 30ft-90ft range. Ignores up to +4 Evade from cover. Any excess damage is converted to a 1-for-1 penalty on the next roll the target makes this scene.
 
-IV: Damage capped at 9, 40ft-120ft range. Ignores all +Evade from cover. Any excess damage is converted to a 1-for-1 penalty on the next roll the target makes this scene, and if the damage drops the target, burns all their Grit, _or_ the penalty is -8 or higher, refunds up to 5 spin and, once per scene, the minor action used to cast this spell.
+IV: Cast, as a free action, at the start of conflict to take an immediate extra turn. 12 spin + 2 stress.
 
 #### NameTBD (Be Precise)
 Free action, 30ft, variable, N/A, 4 spin, rectory (I/III)/revery (II/IV)
