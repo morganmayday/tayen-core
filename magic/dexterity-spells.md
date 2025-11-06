@@ -1,6 +1,6 @@
 __Snipe (Strike First)__
 
-Minor action, variable, instant, vs Evade, 1 spin + 2 per rank
+Minor action, variable, instant, vs Evade, 1 spin + 2 per rank, fulcry
 
 I: Damage capped at 3, 10ft-30ft range. Excess damage, up to 2, refunds as spin.
 
@@ -10,15 +10,16 @@ III: Damage capped at 7, 30ft-90ft range. Ignores up to +4 Evade from cover. Any
 
 IV: Damage capped at 9, 40ft-120ft range. Ignores all +Evade from cover. Any excess damage is converted to a 1-for-1 penalty on the next roll the target makes this scene, and if the damage drops the target, burns all their Grit, _or_ the penalty is -8 or higher, refunds up to 5 spin and, once per scene, the minor action used to cast this spell.
 
-__Be Precise?__
+__NameTBD (Be Precise)__
 
+Free action, variable, N/A, 4 spin, rectory (I/III)/revery (II/IV)
 - Buff to dexterity checks for the duration?
 - morgan note: this would be the perfect place for any like Arcane Hand thingies
 - luke note: tbh this feels like drone-strike and telepathy stuff?? like in the form of you shoot something and you can a) make it homing or b) manually control it
 
 Soapy Draft [spin and actions and shit to work out]
 
-I: You can telekinetically move one object at a time within 30ft for [duration]. All checks with this have a -3 [5?] penalty.
+I: You can telekinetically move one object at a time within 30ft for the scene, or until your concentration is broken. All checks with this have a -3 [5?] penalty.
 
 II: You mentally convey a silent message to a person within earshot, they may respond briefly.
 
