@@ -1,4 +1,4 @@
-#### Snipe (Strike First)
+#### Strike First
 Minor action, variable, instant, vs Evade, 1 spin + 2 per rank, fulcry
 
 I: Damage capped at 3, 10ft-30ft range. Excess damage, up to 2, refunds as spin.
@@ -9,7 +9,7 @@ III: Damage capped at 7, 30ft-90ft range. Ignores up to +4 Evade from cover. Any
 
 IV: Cast, as a free action, at the start of conflict to take an immediate extra turn. 12 spin + 2 stress.
 
-#### NameTBD (Be Precise)
+#### Be Precise
 Free action, 30ft, scene, N/A, 4 spin, rectory (I/III)/revery (II/IV)
 
 I: You can telekinetically move one object at a time within range for the scene, or until your concentration is broken. All checks with this have a -3 penalty, and take the same actions as they would if you were physically performing them. Cast this only at the start of your turn.
@@ -20,7 +20,7 @@ III: As I, but no penalty, and you can choose to receive fine sensation back fro
 
 IV: You and any number of willing targets within range (chosen upon cast) can communicate silently for the scene in mental images and messages, as II. This spell ends for any target that goes more than 30ft away from you, and ends if you dismiss it or your concentration is broken. Cast this only at the start of your turn.
 
-#### NameTBD (Evade)
+#### Evade
 Minor action, self, scene, N/A, 2 spin + 2 per rank, revery
 
 I: Until you fail a check against a skill you choose when you cast this spell, you get a +2 focus bonus on all contests vs it.
