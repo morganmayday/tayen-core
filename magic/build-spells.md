@@ -1,16 +1,16 @@
-__Obliterate (Hit Hard)__
+#### Obliterate (Hit Hard)
 
 Major action, touch, instant, vs Evade, 4 spin, fulcry
 
-I: +2 damage on hit. Elemental type (cold, fire, or lightning) only.
+I: +2 focus bonus on the Hit Hard check. Elemental type (cold, fire, or lightning) only.
 
-II: Extra spin can be spent, 4 to an additional +2 damage. Bonus damage cap at +6 total.
+II: Extra spin can be spent, 4 to an additional +2. Bonus cap at +6 total.
 
-III: Can change type as desired. Bonus damage cap at +10 total.
+III: Can change type as desired. Bonus cap at +8 total.
 
-IV: Affect hit roll rather than damage.
+IV: Can cast at any number of targets within touch range of a point within 30ft of you, spending spin for each.
 
-__Travel (Move)__
+#### Travel (Move)
 
 Variable, self, variable, N/A, variable, rectory
 
@@ -22,11 +22,11 @@ III: Teleport yourself to any place you know of. Can link hands with up to 7 oth
 
 IV: Rip open a gate directly in front of you for the next minute to a place you have a linked item for. The gate is 15ftx15ft, two-way, and anyone can pass through it. 1 minute cast time. 18 spin, concentrate. Can close at-will. If something is within the gate when it closes, they are shunted to a side chosen at random.
 
-__Fortify (Endure)__
+#### Fortify (Endure)
 
 Variable, variable, variable, N/A, 6 spin, rectory
 
-I: Grant yourself or touched willing target +4 Endure for the scene. Concentrate. Major action.
+I: Grant yourself or touched willing target +4 focus bonus to Endure for the scene. Concentrate. Major action.
 
 II: Projectiles that would hit allies within 15ft of you (but not you) deal half damage for the scene. Concentrate. Major action.
 
