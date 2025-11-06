@@ -6,7 +6,7 @@ I: +2 focus bonus on the Hit Hard check. Elemental type (cold, fire, or lightnin
 
 II: Extra spin can be spent, 4 to an additional +2. Bonus cap at +6 total.
 
-III: Can change type as desired. Bonus cap at +8 total.
+III: Type can also be physical or spectral. Bonus cap at +8 total.
 
 IV: Can cast at any number of targets within touch range of a point within 30ft of you, spending spin for each.
 
