@@ -1,6 +1,6 @@
 __Obliterate (Hit Hard)__
 
-Major action, touch, instant, vs Evade, 4 spin
+Major action, touch, instant, vs Evade, 4 spin, fulcry
 
 I: +2 damage on hit. Elemental type (cold, fire, or lightning) only.
 
@@ -12,7 +12,7 @@ IV: Affect hit roll rather than damage.
 
 __Travel (Move)__
 
-Variable, self, variable, N/A, variable
+Variable, self, variable, N/A, variable, rectory
 
 I: Blink 15ft to a space you can see. 3 spin, extend 10ft with 2 spin, up to 35ft. Minor action.
 
@@ -24,7 +24,7 @@ IV: Rip open a gate directly in front of you for the next minute to a place you 
 
 __Fortify (Endure)__
 
-Variable, variable, variable, N/A, 6 spin
+Variable, variable, variable, N/A, 6 spin, rectory
 
 I: Grant yourself or touched willing target +4 Endure for the scene. Concentrate. Major action.
 
