@@ -1,4 +1,4 @@
--- Manipulate
+#### Manipulate
 - Subtle nudges, lower power ceiling, also can work as team inspiration
 - morgan note: cool fucking concept here that may not work but can be tabbed: a sort of emotional parallelisation thing.
 
@@ -6,7 +6,7 @@ Soapy Draft
 
 IV: smth smth you invest a paragraph of text with revery magic that compels whoever reads it to carry out an order, which you choose when writing the text.
 
--- Command (Compel)
+#### Command
 - Much more powerful than Manipulate but much more brazen and visible, also very very illegal
 - Compulsions, dominations
 
@@ -25,6 +25,6 @@ III: As above, but with one of the following:
 
 IV: You issue an order [idk. much more irresistible?]
 
--- Exert Will
+#### Exert Will
 - Maybe some sort of metamagic or countermagic? Messing with spells, either yours or others?
 - morgan note: yah sounds right
