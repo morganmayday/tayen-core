@@ -1,16 +1,14 @@
 __Snipe (Strike First)__
 
-Minor action, variable, instant, vs Evade, 3 spin
+Minor action, variable, instant, vs Evade, 1 spin + 2 per rank
 
-I: Damage capped at 3, 10ft-30ft range.
+I: Damage capped at 3, 10ft-30ft range. Excess damage, up to 2, refunds as spin.
 
-II: Damage capped at 4, 20ft-60ft range. 
+II: Damage capped at 5, 20ft-60ft range. Excess damage, up to 3, refunds as spin, and any above 3 is converted to a 1-for-1 penalty on the next roll the target makes this scene.
 
-III: Damage capped at 5, 30ft-90ft range. Ignores partial cover.
+III: Damage capped at 7, 30ft-90ft range. Ignores up to +4 Evade from cover. Any excess damage is converted to a 1-for-1 penalty on the next roll the target makes this scene.
 
-IV: Damage capped at 6, 40ft-120ft range. Ignores cover.
-
-- morgan note: potentially applies status effects on 2, 3, 4 ranks
+IV: Damage capped at 9, 40ft-120ft range. Ignores all +Evade from cover. Any excess damage is converted to a 1-for-1 penalty on the next roll the target makes this scene, and if the damage drops the target, burns all their Grit, _or_ the penalty is -8 or higher, refunds up to 5 spin and, once per scene, the minor action used to cast this spell.
 
 __Be Precise?__
 
