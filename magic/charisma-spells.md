@@ -26,5 +26,12 @@ III: As above, but with one of the following:
 IV: You issue an order [idk. much more irresistible?]
 
 #### Exert Will
-- Maybe some sort of metamagic or countermagic? Messing with spells, either yours or others?
-- morgan note: yah sounds right
+Varies, 60ft, instant, vs Exert Will, 1 spin + 2 per rank, fulcry
+
+I: The next spell you cast this scene has a +2 focus bonus on its related check. Minor action.
+
+II: Choose a spell or magical effect within range and roll Exert Will vs its caster, or, if unattended, its set DC. If you win the contest, you end the spell or magical effect. Otherwise, you learn the exact details of the spell or magical effect. Major action.
+
+III: The next spell you cast this scene either has +30ft range, reduces the cast time from fullround to major, major to minor, or minor to free.
+
+IV: As II, except you get a +2 focus bonus on the Exert Will check, and if you succeed, you can either end the spell or magical effect, _or_ end it and cast it yourself as a free action immediately, spending resources as appropriate.
