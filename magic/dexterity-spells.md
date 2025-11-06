@@ -10,11 +10,11 @@ III: Damage capped at 7, 30ft-90ft range. Ignores up to +4 Evade from cover. Any
 IV: Cast, as a free action, at the start of conflict to take an immediate extra turn. 12 spin + 2 stress.
 
 #### NameTBD (Be Precise)
-Free action, 30ft, variable, N/A, 4 spin, rectory (I/III)/revery (II/IV)
+Free action, 30ft, scene, N/A, 4 spin, rectory (I/III)/revery (II/IV)
 
 I: You can telekinetically move one object at a time within range for the scene, or until your concentration is broken. All checks with this have a -3 penalty, and take the same actions as they would if you were physically performing them. Cast this only at the start of your turn.
 
-II: You mentally convey a silent message or mental image to a willing target within range.
+II: You mentally convey a silent message or mental image to a willing target within range. Instant.
 
 III: As I, but no penalty, and you can choose to receive fine sensation back from whatever you are handling.
 
