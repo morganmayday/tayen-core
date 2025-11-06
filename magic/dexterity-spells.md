@@ -21,11 +21,11 @@ Soapy Draft [spin and actions and shit to work out]
 
 I: You can telekinetically move one object at a time within range for the scene, or until your concentration is broken. All checks with this have a -3 penalty, and take the same actions as they would if you were physically performing them. Cast this at the start of your turn.
 
-II: You mentally convey a silent message or mental image to a target within range.
+II: You mentally convey a silent message or mental image to a willing target within range.
 
-III: As I, but no penalty and you can choose to receive fine sensation back from whatever you are handling.
+III: As I, but no penalty, and you can choose to receive fine sensation back from whatever you are handling.
 
-IV: You and any number of targets within range (chosen upon cast) can communicate silently for the scene. This spell ends for any target that goes more than 30ft away from you.
+IV: You and any number of targets within range (chosen upon cast) can communicate silently for the scene in mental images and messages, as II. This spell ends for any target that goes more than 30ft away from you.
 
 __Evade?__
 - Get much better at dodging
