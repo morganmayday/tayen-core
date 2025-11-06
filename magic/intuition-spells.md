@@ -10,6 +10,19 @@ __Soulread (Read Someone)__
 - Find weaknesses in opponents, especially in social settings. Single target, instead of Evade's more general dodge
 - morgan note: not Detect Thoughts, but perhaps like. an impulse foresight
 
+- Ask the spinner the next intended skill-roll of a character
+- funny atium clashing if you both use it idk that doesn't need saying
+
+Soapy Draff
+
+I: [Low spin minor or free action] Ask the Spinner what skill a target of choice is intending to next roll.
+
+II: [Fair spin minor action] As above. You can also ask on each of your next four turns, on the same target.
+
+III: [High spin] As above. When you hear the answer, pick a skill of yours to get a +3 [5?] Circumstance bonus on contests with the target.
+
+IV: [Major] You draw on a jalison such as Secrets Yet Unknown, who whispers a deep dark secret of theirs to you. You must make eye contact with the target.
+
 __Scry (Track Down)__
 
 1 minute, variable, variable, vs Exert Will, 8 spin
