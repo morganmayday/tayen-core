@@ -21,3 +21,13 @@ __Be Precise?__
 __Evade?__
 - Get much better at dodging
 - useful also in social combat, the defensive option to read someone's offense
+
+- something along the lines of "pick a skill. enemies have X circumstance penalty when using it on you and/or you have a bonus to the opposing check". You can do it to hit hard, strike first, read someone, manipulate...
+
+Soapy Draft
+Miiiinor action? Self. Duration ~scene.
+Pick a skill. While this spell lasts, you have a bonus on any contests vs a skill of choice.
+I: +2
+II: +4
+III: +2 on two skills.
+IV: +2. Up to 4 allies within 15ft also gain this effect. Major action.
