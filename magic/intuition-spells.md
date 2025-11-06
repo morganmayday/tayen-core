@@ -2,9 +2,13 @@
 
 1 minute, self, instant, N/A, 6 spin
 
-I: You may ask the Spinner one of the following questions.
+I:
 
-tbd
+II:
+
+III:
+
+IV:
 
 #### Read Someone
 - Find weaknesses in opponents, especially in social settings. Single target, instead of Evade's more general dodge
