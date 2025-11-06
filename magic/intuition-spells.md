@@ -1,4 +1,4 @@
-__Augury (Ear to the Ground)__
+#### Ear to the Ground
 
 1 minute, self, instant, N/A, 6 spin
 
@@ -6,7 +6,7 @@ I: You may ask the Spinner one of the following questions.
 
 tbd
 
-__Soulread (Read Someone)__
+#### Read Someone
 - Find weaknesses in opponents, especially in social settings. Single target, instead of Evade's more general dodge
 - morgan note: not Detect Thoughts, but perhaps like. an impulse foresight
 
@@ -23,9 +23,9 @@ III: [High spin] As above. When you hear the answer, pick a skill of yours to ge
 
 IV: [Major] You draw on a jalison such as Secrets Yet Unknown, who whispers a deep dark secret of theirs to you. You must make eye contact with the target.
 
-__Scry (Track Down)__
+#### Track Down
 
-1 minute, variable, variable, vs Exert Will, 8 spin
+1 minute, variable, instant, vs Exert Will, 8 spin
 
 I: Target an entity you have a physical piece of--hair, fingernails, skin, blood, bone, et cetera. If they aren't within 1000 feet of you as you complete the spell, you simply learn what direction they're in, no contest. If they're within range, instead you learn the direction and then get a glimpse of what they're doing right now if you win the contest. They aren't aware of the contest or scrying. If they're in another dream, the scrying fails.
 
