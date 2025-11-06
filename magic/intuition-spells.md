@@ -13,9 +13,9 @@ IV:
 #### Read Someone
 Major action, 30ft, scene, vs Manipulate, 1 spin + 3 per rank, revery
 
-I: You scry the next action of your target. If they succeed on the contest, you simply know what skill they're planning on using next. If you succeed or the contest is tied, you know what action they're planning on taking next. This doesn't guarantee that they'll take it, 
+[I: You scry the next action of your target. If they succeed on the contest, you simply know what skill they're planning on using next. If you succeed or the contest is tied, you know what action they're planning on taking next. This doesn't guarantee that they'll take it, 
 
-II: [Fair spin minor action] As above. You can also ask on each of your next four turns, on the same target.
+II: [Fair spin minor action] As above. You can also ask on each of your next four turns, on the same target.] I don't reallly like these mechanically
 
 III: [High spin] As above. When you hear the answer, pick a skill of yours to get a +3 [5?] Circumstance bonus on contests with the target.
 
