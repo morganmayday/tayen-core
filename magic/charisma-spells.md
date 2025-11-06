@@ -12,18 +12,18 @@ IV: smth smth you invest a paragraph of text with revery magic that compels whoe
 
 Soapy Draft
 
-Major Action, Varies, Vs Exert Will
+Major action, varies, vs Exert Will, revery
 
-I: The target takes an action of your choice on their next turn. Must speak the command aloud.
+I: The target takes an action of your choice on their next turn. Must speak the command aloud, and the action must be a listed major or minor action. [? I dont want to pigeonhole it but it _is_ really powerful]
 
 II:  As above, but the command holds for a minute. [i.e. "surrender"]
 
 III: As above, but with one of the following:
 - Can add extra targets for +2 spin each, 8 targets or more becomes "everyone within earshot".
 - The command holds for [an hour/8 hours/a day? idk].
-- You do not need to speak the command aloud.
+- You do not need to speak the command aloud. [manipulate territory]
 
-IV: Thirteen round casting time, where you and the target maintain contact, and an oath is sworn. The target will never break the oath, and will interpret it in fairly good faith. [Needs penalties. also maybe stipulation for failure despite trying hardest]
+IV: You issue an order [idk. much more irresistible?]
 
 -- Exert Will
 - Maybe some sort of metamagic or countermagic? Messing with spells, either yours or others?
