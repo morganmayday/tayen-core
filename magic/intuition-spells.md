@@ -11,15 +11,9 @@ III:
 IV:
 
 #### Read Someone
-- Find weaknesses in opponents, especially in social settings. Single target, instead of Evade's more general dodge
-- morgan note: not Detect Thoughts, but perhaps like. an impulse foresight
+Major action, 30ft, scene, vs Manipulate, 1 spin + 3 per rank, revery
 
-- Ask the spinner the next intended skill-roll of a character
-- funny atium clashing if you both use it idk that doesn't need saying
-
-Soapy Draff
-
-I: [Low spin minor or free action] Ask the Spinner what skill a target of choice is intending to next roll.
+I: You scry the next action of your target. If they succeed on the contest, you simply know what skill they're planning on using next. If you succeed or the contest is tied, you know what action they're planning on taking next. This doesn't guarantee that they'll take it, 
 
 II: [Fair spin minor action] As above. You can also ask on each of your next four turns, on the same target.
 
