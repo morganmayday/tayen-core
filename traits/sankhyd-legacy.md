@@ -1,3 +1,5 @@
+FLAGGED: TABBED FOR REMOVAL
+
 You are one of the shifting folk, inducted into mystic traditions of form and change.
 
 When you take this trait, choose a small animal--mice, cats, corvids, and foxes are all fairly common examples.
