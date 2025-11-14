@@ -1,3 +1,5 @@
+FLAGGED: LEGACY, TABBED FOR REMOVAL
+
 Crafted from clay in a mystical ritual guarded for a millennium, your flesh resembles the very clay you were cast from, finger smudges and all. 
 
 > #### Sidebar: Naoneh Variance
