@@ -16,7 +16,7 @@ The vanguard's primary skills are Hit Hard and Endure, and they receive a rank i
 | 8 | tbd |
 
 #### Lead Allies
-A first-level vanguard that takes the Move conflict action can spend an allows up to one ally to move right behind them.
+A first-level vanguard that takes the Move conflict action can spend an Action Die to allow up to one ally to move right behind them.
 
 #### Lead the Attack
 A first-level vanguard that initiates a conflict grants themself and all allies a +2 initiative bonus on the first check they make this conflict.
